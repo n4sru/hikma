@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".histprt4">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="72dp"
+        android:layout_marginBottom="5dp"
+        android:text="xukuumaddihii hore ee Xamar"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="30sp"
+        android:typeface="normal"
+        app:fontFamily="serif"
+        app:layout_constraintBottom_toTopOf="@+id/scrollViewchp2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="371dp"
+        android:layout_height="387dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.619">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Qeybtii 4-aad
+Magaalada Muqdisho taariikhdii ay jirtay waxaa soo maray dhowr xukuumadood iyo boqortooyo oo kala geddisan oo mid walba waqtigeeda ay soo qaadatay
+Qarnigii 8-aad ee Miilaadiyada waxaa magaalada Muqdisho xukumayey sida taariikh-yahanadu sheegeen nin Wadaad ahaa oo la oran jiray Abuubakar Fakhrudiin, waxayna xukuumaddani ku aasaasantay hab wadatashi, xilligaasna ma jirin Boqor ama Suldaan, balse waxay qolo walba ka dambeyn jireen Sheekha ay leeyihiin.
+Xukuumaddaas ku dhisneyd wadatashiga waxay dhalatay kaddib markii qabaa?iladii deganaa Muqdisho ay shir dhowr maalmood qaatay ku yeesheen goobta uu hadda ku yaalo masjidka Arbaca rukun oo ay markaas oron jireen Al-Malmalah.
+Abuubakar Fakhrudiin wuxuu Muqdisho xukumayey muddo 17 sano ah, wuxuuna xukunkiisu soo gaba gaboobay sanadkii 1117 ee Miilaadiyada.
+Dadkii xilligaasi deganaa magaalada Muqdisho waxay u badnaayeen dad ganacsato ah, waxayna ka tijaareysan jireen Geella, Lo?da, Ariga, maqaarka xayawaanaadka, sameynta dharka iyo beerashada, waxayna gaareen in ay dibadda badeeco u dhoofiyaan sida raashinka, subaga, Saliidda iyo waxyaabaha kale ee lama huraanka ah, iyagoo ku soo beddelan jiray badeecooyin kala duwan oo markaas aan deegaankooda laga helin.
+Dadka ku noolaa Muqdisho waxay sidaas ku soo socdeen ilaa saddex boqol oo sano oo ah ilaa qarnigii 11-aad ee Miilaadiyada.
+
+Dowladdii Xalwaan
+Bilowgii qarnigii 15-aad ee Hijriyada kuna beegneyd qarnigii bilawgii qarnigii 12-aad ee Miilaadiyada, markaas oo uu dhamaaday waqtiga xukuumaddii Abuubakar Fakhrudiin ee Muqdisho xukumi jirtay ayaa waxaa talada Gobolka Banaadir la wareegay xaakim la oron jiray Muxamed Shaah AL-xalwaani oo ka yimid dhinaca Ciraaq iyadoo magaca Xalwaana uu ahaa deegaano ka tirsanaan jiray dhulka Ciraaq oo uu ka yimid.
+Dowladdaas waxaa caasimad u ahayd magaalada Merka, balse Shaahii Xalwaaniga ahaa wuxuu deganaan jiray Muqdisho, sidaas ayeyna Muqdisho caasimad ugu noqotay Soomaaliya.
+Wasiirkii Shaahaas oo la oron jiray Kandarshaah ayaa isaga waxaa fariisin u ahayd meel ku dhaweyd magaalada Merka, waxaana xilligaas dadka Merka ay Salaadda Jimcada u soo aadi jireen Muqdisho maadaama aaney xilligaas Merka lehayn Masjid weyn oo jaamac ah, waxayna soo raaci jireen gaari-farasyo kiiba ay jiidayaan todobo ilaa sagaal Faras.
+Dowladdii Xalwaan waxay caan ku ahayd baqiiltinimada oo waxay ahaayeen Maamul aan waxba u qaban dadka ay xukumayaan iyagoo weliba ahaa dad hantiilayaal ah balse aaney taas ku kalifeyn tabardarro xagga miisaaniyadda ahayd.
+Xubnihii ka tirsanaa dowladdaas waxay kaloo caan ku ahaayeen kaydsiga Dahabka iyo fidada oo ah Nuuc ka mid ah dahabka lagana samayn jiray lacagta, mid kasta oo ka mid ahna waxaa ugu duugnaan jiray dhulka hoostiisa dahab aad u fara badan.
+Heerka ay gaartay baqiiltimadooda, waxay ahaayeen mas?uuliyiinta xukuumaddii Xalwaan kuwo cuna moofo qaleyl ah, waxayna qaadan jireen dhar kakan, waxayna inta badan raashin cuni jireen 24-kii saacba mar, waxaana dadka reer Banaadir markii dambe ka dhigteen madaxda xukuumaddii Xalwaan hal qabsi, iyagoo dhihi jiray qofkii ay hanti fara badan oo aaney ka muuqan ku arkaan ?Kani waa Xalwaani?.
+Sanadihii dowladdaan waxaa dalka ka dhacay abaar aad u xoog badneyd taasoo dadkii xilligaa deganaa Banaadir ay ku miisaaliyeen sanadihii abaareed ee dalka Masar ku dhacay xilligii Nebi Yuusuf iyo amiirkii Caziiz.
+Waxay keentay abaartaasi in dadku waayaan wax ay laqaan, waxaana yaraaday xoolaha ilaa hal neef oo Ari ah lagu waayo hal Riyaal, iyadoo riyaalkuna uu xilligaas u dhigmayay kun Riyaal amaba ka badan oo waqtigaan joogta.
+Xukuumaddaas ku caan baxday gaajada iyo quud cariirinta ee Xalwaan waxay Banaadir xukumaysay ku dhawaad nusqarni, waxaana maamulkii kala wareegay dowlad kale oo la oron jiray Zowzan oo aan ka sheekeyn doono.
+Qoraalada ka sheekeynaya dowladdii Xalwaan waxaa laga helay iyadoo gacan ku qoraal ah muftigii Banaadir ee xilligaas oo la oron jiray Sheekh uxuyadiin Macalin Mukaram.
+
+ "
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton17"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="74dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageButton9"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/nxt" />
+
+</android.support.constraint.ConstraintLayout>

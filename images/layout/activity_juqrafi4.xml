@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".juqrafi4">
+
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="480dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.35"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Halkaan waxaad ka dawan kartaan sawiro kala duwan oo laga soo qaaday dad kamid ah kuwa ay sameeysay dagaladii sokeeye"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="283dp"
+                app:srcCompat="@mipmap/somalia"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="45dp" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:lineSpacingExtra="14sp"
+                android:text="Soomaalaiya waxeey u qeebsamtaa 18 gobol sida uu qabo dastuurka soomaaliya Cutubka 1 aad, Qodobka 7aad, faqradiisa 2aad iyo 3aad Gobannimada Jamhuuriyadda soomaaliya waxay koobeysaa dhulka Jamhuuriyadda oo idil, oo ay ku jiraan berriga, jasiiradaha, biyaha goboleed, ururkooda, hawadooda iyo geyi-qaaradeedka. Dhulka Jamhuuriyadda Soomaaliya waa laguma xad-gudbaan lamana qaybin karo. Guddoon afti Qarameed oo keliya ayaa lagu oggolaan karaa waxkabeddelidda dhulka Jamhuuriyadda Soomaaliya"
+                android:textAppearance="@style/TextAppearance.AppCompat.Widget.DropDownItem"
+                android:textSize="12sp"
+                android:typeface="normal"
+                app:fontFamily="sans-serif" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=" Magaca kowaad waa magaca gobolka ka labaadna waa magaca caasimada gobolka
+
+
+
+1  Awdal- Boorame
+2  Bakool-Xudur
+3  Banaadir-Muqdisho
+4  Bari-Boosaso
+5  Baay-Baydhabo
+6  Galguduud-Dhuusamareeb
+7  Gedo-Garbahaarey
+8  Hiiraan-Beledweyne
+9  Jubbada Dhexe-Bu'aale
+10 Jubbada Hoose-Kismaayo
+11 Mudug-Gaalkacyo
+12 Nugaal-Garoowe
+13 Sanaag-Ceerigaabo
+14 Shabeellaha Dhexe-Jowhar
+15 Shabeellaha Hoose-Marka
+16 Sool-Laascaanood
+17 Togdheer-Burco
+18 Woqooyi Galbeed-Hargeysa"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium.Inverse"
+                android:textColor="@android:color/holo_green_dark"
+                app:fontFamily="sans-serif" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+    <Button
+        android:id="@+id/button43"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="2dp"
+        android:layout_marginLeft="294dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginStart="294dp"
+        android:text="booga xiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
+

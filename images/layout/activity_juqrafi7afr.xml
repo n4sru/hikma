@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".juqrafi7afr">
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="450dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent">
+
+
+
+            <TextView
+                android:id="@+id/textViewjuq17"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Afrika waa qaarada labaad ee ugu weyn qaaradaha aduunka kadib qaarada Aasiya dhanka baaxada iyo dhanka dadkaba. Baaxada Afrika waxay la'egtahay 30,244,050 km²  tiradaas waxaa ku jira dhamaan jasiiradaha lagu xisaabo Afrika. Afrika baaxadeeda waxay dabooshaa 20.3% baaxada dhulka oo dhan. Sida lagu xusay tirokoob caalami ah oo la sameeyay sanadkii 2013ka waxaa ku nool qaarada Afrika dad tiradooda ay dhantahay 1,1bilyan taasi oo ah tiro u dhiganta todobo qeyboodoo qayb dadka dunida ku noolo maanta.
+Qaarada Afrika waxaa ku hareersan biyo Bada Mediterraniyanka waxay ka xigta waqooyi, sidoo kale Gacanka Suweys iyo Bada Cas waxay ka xigaan waqooyibari, Badweynta Hindiya ayaa kaga taala koonfur bari, iyo Badweynta Atlantika oo ka xigta galbeed. Intaas waxaa dheer, wadanka jasiirada Madagaskar iyo jasiirado kale ayaa soo hoosgala qaarada. Sida rasmiga ah waxaa qaarada Afrika ku yaalo 54 wadan oo la aqoonsan yahay, sagaal deegaan iyo labo wadan oo wali la aqoonsan.
+Xaga bulshada, qaarada Afrika waxaa ku dhaqan dadka ugu da'da yar caalamka marka tirada guud laga hadlayo; 50% dadka Afrikaanka ahi waa da'da ka yar 19 sano. Juquraafi ahaan, wadanka Aljeeriya ayaa ugu wayn dhulka iyo baaxada, halka Nayjeeriya ugu dad badan tahay.Guud ahaan qaarada Afrika waxaa dhex mara dhulbadhaha, waxayna leedahay noocyo badan oo cimilo kala gedisan ah. Waana qaarada keli ah ee laga helo astaamaha cimilada waqooyi ilaa koonfurta dhulka.Sidoo kale, qaarada Afrika waxaa loo qeybiyaa shan gobol kuwaasi oo ku salaysan juquraafiga deegaanka. Waxay kala yihiin: Bariga Afrika, Badhtamaha Afrika, Waqooyiga Afrika, Galbeedka Afrika iyo Koonfurta Afrika.
+            Afrika dadka kunool dhamaan waa dadka madow marka laga reebo wadamada Waqooyiga Afrika oo ay ku nool yihiin dad Carab ahi iyo wadamada sida Koonfur Afrika iyo Simbaabwi iyo Nambiya oo laga helo dad tiro yar oo cadaan ay ka tageen gumeystihii reer Yurub.
+
+            Afrika waxaa si aad ah u saleeysay dagaalo tan iyo markii ay yurubiyaanka gumeeysan jireen dalal badan oo Afrika ah. Mid ka mid ah sababaha ayaa ahaa habka yurubiyaanka u kala qaybiyay dhulka Afrika iyo siyaasad xumada uu dadka baray.  Xudduuda wadamada Afrika waxaa lagu qaaybiyey qalin markii wadamada gumeeystaha ay ku shireen magaalada Berlin sanadka marki u ahaa 1884 ilaa 1885 iyada oo aan la taxgilinin khadadka dabiiciga ah sida qowmiyad walba meesha ay dagto, diin iyo waxyaale kale oo muhiim ah. Tani waxaa ay keentay in dad wada dago loo kala qaybiyay wadamo kale, waxaay kaloo keentay dad khilaaf badani ka dhaxeeyey in leeyskugu geeyo hal wadan, tusaale ahaan sida dadka soomalida loogu kala qaybiyey wadamada Kenya iyo Itoobiya, taasi oo abuurtay in dagaalo ay ka dhashaan.
+
+            Afrika waa qaarada ugu faqrisan adduunka, sababtoona ay tahay wax uu gumeeysiga u geeystay uuna ooga tagay qaarada, iyo dowladaha Afrikaanka oo musuq masuqa ku badanyahay. Sida laga soo xigtay Qaramada Midoobay 2003dii, 25ta dal oo dunida oo wax soo saarkooda oogu liita waxaa ay ahaayeen kuligooda dalal Afrikan ah.
+
+            Tusaale ahaan koritaanka dhaqaalaha dalalka Shiinaha iyo Hindiya ayaa aad u ficnaaday sanadihii oogu dambeeyey taasi waxa ay badashay nolosha dad badan oo ku nool labadaasi wadan, Afrika lakiinse lagama dareemin wax isbadal la xiriira dhinaca dhaqaaleheeda ay ka aheeyn wadamo qaar. Dhaqaalo xumadaasi waxay sameeyn ballaaran ku lahaatay dhinaca caafimaad waxaayna sababtay, rabshadaha iyo xasilooni daro.
+
+            Meelaha qaarkood, gaar ahaan dalalka Botswana iyo Koonfur Afrika, waxay la kulmeen guulo dhaqaale. Tana waxaa  sabab u ah khayraadkooda ee ay ka mid yihiin dahabka iyo dheemanka, taasina oo kutimid sharciga wadanka oo si wanaagsan u dhisan oona la tixgilayo.
+
+            Afrika sideeda kale waa qaraad u ilahay kadhigay qani, waxeey haaysataa kheeyrad aad u farabadan, dhul aad u wanaagsan waana macquul in sidaan la dhaami karo. Taasi lakiinse waxaay mar waliba ku xirantahay in la helo dad si daacad oogu shaqeeyo dalka iyo dadka u masuulka ka yahay, asaga oosan eegin danihiisa shaqsiyeed.
+            Dadka Afrikaanka ah waxay leeyihiin diimo oo kala duwan, halkaas oo diinta kiristaanka iyo diinta Islaamku ay yihiin kuwa ugu waweeyn. Qiyaastii 46.3% dhammaan Afrikaanka waa Masiixiyiin, 40.5% waa Muslimiin. Qiyaastii 11.8% Afrikanka waxay raacaan diimo dhaqan afrikaan ah. Tiro yar oo Afrikaan ah ayaa amiinsan diinta Hindu iyo in yar oo Yuhuud ah, sida beta Israel oo Itoobiyanka ah iyo qabiilada Lemba.
+
+            Dhinaca duur joogta Afrika, waxaa ay africa mid ka mid ah meelaha xoolaha aduunka oogu badan oona oogu qurxoon laga hela, kumanaan ajanibi ah ayaan dibada oogu imaada si ay u dawaasho tagaan ayna u bartaan duurjoogta qaradeena ku nool.Waxaa jira in ka badan hal malyuun oo xayawaan ah oo Afrika ku nool, oo ay ku jiraan kuwa ugu waweeyn sida maroodi iyo xayawaanka aduunka ugu dheer sida gariga.waxaaso kale jiro xawayaano wali aan la helin oo ku nool qarada Africa .Qaradeena africa waa meel nimcad ilahay siyeey ayna tahay in aan si sax ooga faideysano, waxaa jiro waxyaalo badan aan ka faideeysan karno hadii aan fakerno.
+
+            Sidoo kale Afrika waxaay hoy utahay kheeyraadka si kasta aay wadamo badan ay ooga gajeeysan yihiin kheeyradkooda ay heeystaan, taasina oo keeneeyso waxbarasho la'aanta oo ay ku garan wayeen dadka badan qimaaha uu leeyahay kheeyradka.
+
+waxyaalaha uu ilaahay ku nimceeyey waxaa kamid ah saliida iyo gaaska oo laga yaaba in laga heli karo Africa oo dhan. Saliida iyo gaaska waa wax aad iyo aad oogu ah muhiim aduunka oo dhan, saliid iyo gaas la'antood waxaa la weeyn laha waxyaalo badan oo maalin malmeedka la isticmaalo sida babuurka iyo diyaaradaha oo malin kasto malaayin dad ay isticmaalan. Sido kaleena laamiyada waxaa lagu dhiso saliida iyo waxyaalo kale oo lasoo koobi karin.  Khayraadka kale Marka laga reebo saliida iyo gaaska, Afrika ayaa hodan ku ah macdanta, sida  dhaaymaanka,    dahabka,   macdaanta Nikkel la yiraahdo oo laga sameeyo babuurta, digsiyada, dhismooyinka iyo waxyaalo kale oo badan, iyo Uranium oo xita dalkeena laga helo ayaadana loo isticmaalo qaab korontada looga dhaliyo iyo xita raajada, uraniumka iyo macdano kale ayaan ku qaadaneeyna xiisada sayniska.   Kalluunka,  Titanium oo ah macdan bir ah oo loo isticmaalo qalabka isbitaalada,baskiilada iyo diyaaradaha iyo Tubaakada. Intan oo wax waa waxyaalo la'aantood dhib fara badan ku keeneyo malin nololaashada dad badan, waxaana ayaan daro ah in wadamo badan oo Africa ah ay si sahlan ku baxshaan kheeyradkan lacag fara badana looga iibiyo alaabtooda wax laga sameeyey.
+            "/>
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

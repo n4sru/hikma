@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chp3">
+
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="432dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/textViewchp2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="21 oktober 1969kii waxaa xukumada dalka la wareegey Madaxweynihi sadaxaad ee dalkeena soo maraa, asaga oo dalka ku qabsaday si afgambi ah uuna ahaa madaxweyne kaligii taliye ahaa. Dalka waxaa uu maamulayay sanadihii 1969kii ilaa 1991dii. Jaale Maxamed Siyaad Barre wuxuu ku dhashay magaalada Shilaabo ee ku taala dhulka somaliyeed ee itoobiya maamusho sanaadkii 1919kii; wuxuu ku dhintey magaalada Lagos ee dalka Nigeria  bishii Janaayo 2 ee sanadkii 1995dii asagoo ah 75 sano jir.   Wakhti ay xamaasad siyaasadeed ka taagneyd wadanka Soomaaliya ayaa 1969kii koox ciidanka xooga ah oo uu hogaaminayo Jaale Barre af-gembi lama filaan ah ku qabsadeen awooda wadanka ayaga oo hal habeen ku qabsadey magaalo madaxda Muqdisho, halkaasi ooy kaga dhawaaqeen dowladii Kacaanka Umada Soomaaliya. Jaale Barre wuxu wadanka u hor kacay horumar degdeg ah oo muuqda, ayadoo si iskaa-wax-u-qabso ah loo dhisey wadooyinka, dugsiyada, xarumaha bulshada, cusbitaalada IWM. Sidoo kale waxaa dowladu la wareegtay maamulka iyo faro ku heynta bangiyada, beeraha waaweyn, shirkadaha muhiimka ah, wershadaha iyo dhamaan wixii muhiim ahaa sida ganacsiga iyo baayac-mushtarka. Dowladu waxay si qeexan u mamnuucdey qabyaalada, qoloqoleeysiga iyo iskala-sooca bulshada Soomaaliyeed dhexdeeda ah taasi oo si shaaric ah loo aasay qabyaalada, isla markaana lagu dhawaaqey in shacabka wadanku siman yihiin meel kasta ooy ka soo jeedaan ama qolo kasta ooy ku abtirsadaan. Waxyaabaha ugu waawayn ee Kacaankii Umada Soomaaliyeed ku soo kordhiyeen waxay ahayd hirgelinta qoritaanka Far Soomaaliga, taasi oo noqotey mid dhaxalgal u ah bulsho weynta ku hadasha luuqada Af-Soomaaliga. Si loo fidiyo oo loo kobciyo qoritaanka luuqada Soomaaliga ayaa dowladu waxay samaysay Ololihii Af-Soomaaliga ee bilaabmey sanadkii 1974tii, wakhtigaasi oo dugsiyada la xidhey si 25,000 oo arday iyo 3,000 askarta ciidanka xooga ah u tegaan miyi iyo magaalo si ay u soo baraan qoritaanak farta cusub e Af-Soomaaliga. Dhowrkii sano ee xigay waxaa dowladu ka gaadhay heer sare ololahaas baritaanka farta Soomaaliga iyada oo sii kordhisey dadaalkii iyo tababaradii.   Sanadihii badnaa ee Jaale Maxamed Siyaad Barre hayay talada wadanka Soomaaliya wuxuu gaadhsiiyey umada iyo wadanka Soomaaliya heerkii ugu sareeyay ee Soomaali waligeed gaadho. Waxaa horumar muuqda lagu sameeyay wax soo saarka wadanka ayadoo la dhisey wershado faro badan. Xaga ciidanka xooga iyo kuwa qalabka sida aad ayaa loo dhisay, waxayna Soomaaliya ka mid noqotey shanta wadan ee ugu awooda badan qaarada Afrika. Dhaqaalaha, waxbarashada, caafimaadka iyo shaqooyinka ayaa si xoowli ah u koray. Dadka Soomaalida oo 90% reer baadiye ahaa ayaa noqdey ilaa 40% reer magaal aqoon leh. 1976 Xukuumaddi Milaterigu waxay abuurtay Xisbiga Hantiwadaaga Kacaanka Soomaaliyeed (XHKS). Wuxuu ahaa xisbiga kaliya ee loo ogalaa dalka. Xiligaas Xukuumadda Milaterigu waxay ku dhawaaqday in ragga iyo haweenku simanyihiin, waxayna abuurtay xoogag cusub oon horay loo aqoon Sida, &quot;Guulwade.&quot; 1977-1978 waxaa socday dagaalkii Ogaden ee dhexmaray Soomaalida iyo Ethiopianka. April, 1978 koox katirsan ciidamaddii qalabka siday oo uu kamid ahaa hogaamiyayaashooda Col. C/llahi Yusuf Axamed ayaa isku dayey inqilaab dhicisoobay. 6 April, 1981 waxaa London lagu aas-aasay ururkii SNM ee ay taageerayaasha u ahaayeen Qaar kamid ah Soomaalida waqooyiga. July, 1982 Ciidamada Milateriga Ethiopia oo ay caawinayaan Jabhaddii SSDF ayaa weerar kusoo qaaday bartamaha Soomaaliya.Ethiopia waxay danaynaysay in ay Soomaaliya laba u kala goyso. Balanballe iyo Goldogob waxay u gacangaleen Ethiopia. Waxaana xukuumaddu ku andocootay in magaalooyinkan lagu xasuuqay shacab badan oo Soomaali ah. Isla xilligaas mucaaradku waxay ku doodeen in shacab badan oo Soomaali ah ay xukuumaddu ku xasuuqday gobolka Mudug, gaar ahaan agagaarka Galkacyo. Xilligaas waxaa madax u ahaa jabhaddii SSDF, madaxweyne C/llahi Yusuf Axmed. Xilligan wadamada Reer-galbeedku waxay kaalmo milateri iyo mid dhaqaalaba siiyeen Xukuumaddii Maj. Gen. Maxamed Siyad Barre. 1984kii waxaa socdaal qarsoodi ah ku tagey Soomaaliya wasiirkii Arimaha Dibadda ee South Africa, Roelof Botha. Wuxuu ballan qaaday kaalmo milateri haddii diyaaradaha South Africa ay kusoo degaan Soomaaliya.  Soomaaliya waxay wax ka aas-aastay urur goboleedka IGAD oo lagu aas aasay Djibouti. Xilligan Maj. Gen. Maxamed Siyad Barre wuxuu kula kulmay Djibouti Mangistu Haile Mariam, madaxweynihii Ethiopia xukumayey. 23 May, 1986 madaxweyne Maxamed Siyad Barre wuxuu galay shil baabuur oo uu si xun ugu dhaawacmay. Madaxweynaha waxaa loo qaaday wadanka Sucuudiga oo lagu soo daaweeyey. November, 1986 Madaxweyne Maxamed Siyaad waxaa loo caleema saaray 7sano oo kale. 99% codayn dhan ayuu ku dooday in loogu codeeyay ereyga &quot;HAA.&quot; Laakiin xilligaas waxaa dalka ka socday dagaallo sokeeye, dad badan oo Soomaali ahina waxay ka horjeedeen nidaamkii Xukuumaddii Milateriga. 1987kii hay'adda u dooda xuquuqda bini'aadamka ee Amnesty International, waxay ku eedaysay rajiimkii Maxamed Siyaad in uu ku xadgudbay xuquuqda bini aadamka. Tani waxay keentay in Congresska Maraykanku gooyo kaalmadii uu siinjiray Mr. Barre iyo xukuumaddiisii.27 May, 1988 ururkii SNM wuxuu qabsaday caasimadda gobolkii Togdheer ee Burco. 31 May, 1988 isla ururkii SNM wuxuu qabsaday qaybo badan oo muhiim ah oo kuyiilay Hargaysa. Xukuumaddu waxay xiligan xoog milateri u adeegsatay, duqayn lixaadlehna u geysatay labadaas magaalo. Sidoo kale mucaaradku waxay iyana dhankooda dagaalka ku ballaariyeen goobihii rayidka. Dad Soomaaliyeed oo aad u badan ayaa u qaxay Ethiopia. Kumaankun kalena waxay ku dhinteen dagaaladaas. 9 July, 1989 waxaa Muqdisho lagu toogtay Madixii kaniisada katholiga ee Muqdisho, Salvatore Colombo. Ilaa hadda lama helin ciddii dilkiisa ka danbeysay.Isla xilligan waxaa socday dagaallo sokeeye oo u dhaxeeyey xukuumadda iyo mucaaradka, gaar ahaan gobolada dhexe oo la rumaysanyahay in dad badan oo shacab ah ay ku geeriyoodeen. 14 July, 1989 ciidamadii koofiyad casta ayaa cagta marisay mudaharaad ay sameeyeen dad Soomaali ah oo kacaraysnaa xarig loogaystay Sheikh C/Rashid Sheikh Cali Sufi. Waxaa larumaysanyahay in dadbadani ku geeriyoodeen. 15 July, 1989 waxaa xeebta Jasiira lagu xasuuqay ilaa 47 qof oo Soomaalida waqooyi ah. Waxaa lagu tilmaamaa in uu yahay mid kamid ah waxyaabihii ugu xumaa ee laga xasuusto Xukuumaddii milateriga. tani waxay keentay in Xukuumadihii Reer galbeedku ay iska fogeeyaan Maj. Gen. Maxamed Siyaad iyo xukuumaddiisii. 6 July, 1990kii Waxaa isna dadbadini ku geeriyooday mashaqadii ka dhacday Stadium Muqdisho, garoonka kubadda cagta ee Muqdsiho. 13 July, 1990kii waxaa dil toogasho lagu xukumay 46 kamid ah dad siyaasiyiin ah oo kasoo horjeeday President Barre; kooxdan waxaa lagu magacaabay Manafesto Group. In badan oo iyaga kaimid ahina waxay gadaal ka noqdeen dagaal-oogayaal. 31 December, 1990 waxaa bilowday burburkii xukuumaddii dhexe ee Soomaaliya.    Si kastaba ha ahaatee, 21 sano oo xukun milatari ka dib ayaa xoogii Kacaanka Umada Soomaaliya lagu khasbey ineey ka baxaan magaalo madaxda wadanaka midaasi ooy ka dambeeyeen ururo mucaarid iyo dagaalyahano qabiilo u dagaalamaya. Bishii Janaayo 26keedii ee 1991kii ayaa Jaale Maxamed Siyaad Barre ka degay maamulka iyo talada dowladii kacaanka ee ka talineeysay wadanka Soomaaliya, asaga oo wadanka ka baxay. Madaxweyne Siyaad Barre asagoo 75 sanno jir ah wuxuu ku geeriyooday magaalada Lagos ee wadanka Nayjeriya bishii Oktoobar 26keedii sanadkii 1995kii. Marxuumka waxaa lagu aasay gobolka uu u dhashay ee Geddo.   "
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button33"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="268dp"
+        android:layout_marginStart="268dp"
+        android:text="Booga Xigga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</android.support.constraint.ConstraintLayout>

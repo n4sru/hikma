@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".histprt2">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="72dp"
+        android:layout_marginBottom="5dp"
+        android:text="Tariikh hore magalooyinka Somalia"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="30sp"
+        android:typeface="normal"
+        app:fontFamily="serif"
+        app:layout_constraintBottom_toTopOf="@+id/scrollViewchp2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="371dp"
+        android:layout_height="387dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.619">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Qeybtii 2-aad;   Taariikhdan hadda waxaan rabnaa in aan sii galno tariikhdii hore ee Xamar iyo Saylac, waxaana labadan magaalo u dooranay sababto ah waa labo magaalo oo tariikh dheer lehm oo na tuseeyso qaabkii soomalidii hore ay ku noolayeen iyo marxaladaha kala duwan ay soo mareen Magaalada Muqdisho oo aan horey u soo sheegnay inay ka mid tahay magaalooyinka ugu da'da weyn dunida waxay leedahay xaafado fara badan oo laakiin taariikhda aasaaskoodu uu kula dambeeyey. Xaafadaha Muqdisho waxaa ugu horreeyey uguna da' weyn Xamarweyne oo hadda degmo ah, waxaana ku soo xigay xaafaddii Shangaani oo imminka iyaduna degmo ah, xaafadaha kale ee Muqdishana wey ka dambeeyaan labadaan qadiimka ah.  Sidee ku baxay magaca Xamarweyne Waxay sheegeen taariikh-yahanadu in Xamarweyne oo ku taala Xeebta Muqdisho waqtiyadii hore laysku oran jiray laga soo bilaabo degmada Karaan ilaa Xeebta Xamar-yare oo hadda loo yaqaano Xamar-jajab. Shariif Caydaruus oo ka mid ah Taariikhyahanadii Soomaaliya wax ka qoray waxa uu sheegay in magaca Xamarweyne uu baxay kaddib markii halka hadda loo yaqaano uu soo gaaray nin Lug ka hitinaya isagoo watay hal gaduudan, isla markaana ay Haweeeneydiisu ku hoggaamneysay. Markii uu soo gaaray goobtii horey loo oron jiray Mal-mala oo ku taalay meel ku dhow Masaajidka Arbaca-rukun ayuu joogsaday, wuxuuna ka degay Hashii xilli Salaaddii maqrib ay soo dhaweyd si ay u tukadaan isaga iyo haweenaydiisu, iyagoo weyso qaadanaya ayaa waxaa u yimid afar qofood oo safar ah, salaan ayeyna is dhaafsadeen.  Markii ay isla tukadeen kaddib ayaa afartii qof ee ninka Hasha-watay u yimid waxa ay ka codsadeen in uu marti qaado, wuxuuna u sheegay in isaguba uu yahay qof safar ku ah meesha oo aanuu deganeyn, haddana wuxuu ka aqbalay inuu habeenkaas noqdo sida nin meesha degan oo uu marti qaado dadkaas safarka ah uuna u gowraco Hashii kaliya ee uu gaadiid ahaan u watay. Hashii ayaa la gowracay, hilibkeedii ayaana habeenkaas la waday cunay, xilligii hurdada ayaa kuwii martida ahaa waxay ka codsadeen martiqaadihii in uu u keeno maqaarka Hasha oo uu agtooda ku soo fidiyo, wuuna ka aqbalay. Martiqaadihii iyo Haweeneydiisii meel ayey wada jiifteen, kuwii ay marti qaadeena meel kale ayey jiifteen, Salaadda subax ayaana la waday kacay, waana la wada dukaday, wax yar kaddib ayuu ninkii diray haweeneydisii, isagoo ku amray inay soo eegto xaaladda dadkii martida ahaa, markii ay meesha tagtay weyba maqan yihiin, waxaana meeshii yaala Maqaarkii oo ay ku jiraan jajab dahab ah. Haweeneydii wey soo laabatay, ninkeedii ayeyna arrinta u sheegtay, markaas ayey dahabkii qaateen iyagoo bilaabay aas-aas deegaaneed cusub kaasoo markii dambe noqday mid aad u camiran looguna magic daray Xamarweyne ka dib markii dad badaini soo degeen. Marka magaca Xamarweyne ayaa waxa uu iska saaran yahay labo eray oo midkood yahay Carabi, midka kalana yahay Soomaali, kuwaasoo kala ah (Xamra) oo loola jeedo Hashii gaduudneyd iyo (Weyn) oo loola jeeday maqaarkii weynaa ee Dahabka faraha badan laga dhex helay laguna dhisay deegaankaan weyn ee Xamar-wayne.  Sidee Ku Baxay Magaca Shangaani? Shangaani waa degmada labaad ee ugu da?da weyn magaalada Muqdisho, waxayna taariikhyahanadu sheegeen in magacaan ay bixiyeen culimadii Neysaaburiyiinta oo ka mid ahaa dadyowgii islaamkaa ahaa ee deegaanadaan soo geli jiray, waxayna magaca bixiyeen markii ay dageen Shangaani oo markaas aan magacaan lahayn. Magacaan ayey culimadaasi ka keeneen xaafad ka mid ah xaafadaha magaalada Neysaabuur oo ay iyagu ka yimaadeen, isla markaana la dhihi jiray mid ka mid ah xaafadaheeda Shangaani. Qaar kale oo ka tirsan taariikhyahanada ayaa sheegay taa mid ka beddelan iyagoo ku doodday in magaca Shangaani uu ka yimid buur ku dhow Badda oo meel ka mid ahi intey dilaacday ay ka soo gudbi jireen biyaha Badda, iyadoo meeshaas ay dadku dharka ku dhaqan jireen kuna qubeysan jireen, magaca Shangaanina uu meeshaas kasoo ifbaxay. Buurtaan ay sheegeen in magaca shangaani uu ka yimid ayey tilmaameen in magaalada Muqdisho ay wax xoogaa ka fogeyd oo ay ku taalay meel saacad iyo bar looga luggooyo Muqdisho. Yey Ahaayeen Dadkii Ugu Horeeyey Ee Muqdisho Daga? Waxay sheegeen taariikh-yahanadu in dadkii ugu horreeyey ee dega magaalada Muqdisho ay ahaayeen dad Carab ah oo ka yimid Jasiiratul-Carab. Waxay sheegayaan taariikhyahanadu in dadka Carabta ahi ay Muqdisho soo dageen 2055 sano ka hor, taasoo noqoneysa xilli ka horreeya dhalashadii Nebi Ciise Calayhi Salaam. Dadka xilligaas soo degay Muqdisho inkastoo lagu tilmaamay Carab haddana waxaa la sheegaa in ay midab ahaan kala duwanaayeen oo qaarkood cadcaddaayeen, qaarkoodna ay maariin ahaayeen, iyadoo ay jireen qaar kale oo leh midabo kuwaasi ka duwan balse ka agdhow."
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton15"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="74dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageButton9"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/nxt" />
+
+
+</android.support.constraint.ConstraintLayout>

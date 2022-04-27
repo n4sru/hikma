@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".qaraasodagalso">
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="451dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Qasaaraha dalka soo gaaray kadib dagaaladii sokeeye waa qasaaro aad iyo aad u weeyn oo dalkeena sanado badaan dib u dhigey. Somaali waxaay ku maah maahda Boqol sano oo dawlad xumo ah, hal habeen oo dawlad la'aan ah baa ka xun. Maahmaadaasina sifiiceen ayaan ku dareemney mecneheeda sababto ah ila ku dhawaad 27 sano aan taaganahay dowlad la'aan amaba dawlad oo karti ba laheeyn oo dalka oo dhan taliskeeda looga dambeeyo.
+
+Qasaare nafeed oo dagalkan naga soo gaaray lama soo koobi karo, waxaa lagu qiyaasi karaa ila millian oo dad ah in ay ku naf wayeen milyan kalana ay barakaceen. Waxaa kale oo dhacday in ay dad badan ay ku abuurmaan naceeyb iyo amin daro oo ay ku qabaan dadka somaliyeed dhaxdooda kadib marka ay arkeen arxan darada iyo dhibaatooyin loo geeystay eheladooda. Dagaalkan inta uu soocday waxaa ka dhashay cuduro fara badan oo dadka ku dhacay, oo dadkana laga daaweeyn karin sabaabto ah, in aysan jirin xarumo caafimaad oo shaqaaynayo amaba in aynan dadka awoodin in ay helaan kaalmo cafimaad. Waxaa kale oo jiro dad badan oo xanuunada dhimirka kasoo gaaray dagaladii sokeeye oo daryeel haysanin. Abaaraha oo ayagana dhow jeer soo noq noqdeen ayaa wax laga qaban kari waayay, ayada oo ay kaliftay in dad awaalkii hore iska dhibataaysnaa oo ay dheerad u noqoto abaaro oo wata cuduro ka dhalanayaa biyo la'aanta cunto la'aan.
+
+Barakaaca kadhashay dagaladii waxaa ay ka dhigtay xerada qoxootiga ee Kenya ku yaalo, xereda qxootiga oo aduunka oogu weeyn. Kaasina ay dadka oogu badan ay ahayeen dad Somali ah.
+
+Sanadidii dambeeyeyna waxaa soo baxay dhalanyari aad u badan oo dalka iskaga tahriiba si ay nolol dhaanto mida ay dalkooda ku haaystaan ay u raadiyaa, taasina ay magafe u gacal galiso. Waa Ayo Magafe?
+Magafe waa magac ay soomaalidu u taqaan xarunta u weyn ee kooxda mukhalasiinta ah. Waa halka lagu bixiyo lacagta ugu badan kuuna gudbinaysa safarka intiisa kle iyo halkii aad doon ka raaci lahayd.
+Magafayaashu way kala duwanyihiin deegaan ahaan hase yeeshee waxay ka simanyihiin, dhibaatada, hoogga iyo rafaadka lagala kulmo oo waaba sababta loo siiyay magaca magafe, waa kuwa aan xumaanta iyo sharka gafin, waa kuwa aan dilka iyo dhaca umada aan gafin, waa kuwa silic iyo hoog inay dadka u horseedan aan gafin.
+Magafe waa koox isku xiran oo mukhalasiin ah, waxay ka kooban yihiin, Soomaali, Suudaaniis, Liibiyaan, Jaad iyo weliba qawmiyado kale. Waa silsilad is haysata ilaa maalinta aad meesha u horeysa aad safarka kasoo bilowdid ilaa meesha aad doonta ka fuulaysid.
+Magafaha u weyn ama qoloda magacaas magafe sida gaarka ah loo siiyo meesha uu daganyahay ama xarunta lagula kulmo waa wadanka Liibiya. Deggaan ahaan xeryaha magafe waxay ku yaalan saxaaraha iyo magaaloyinka waaweyn ee libya. Magafaha aad u tagi doontid waxa ay ku xirantahay mukhalaska kaa soo dira halka aad safarka ka soo bilowdid, tusaale ahaan sida Adis Ababa ama Khartuum.
+Magafena waxaa dhibaato aad u weeyn loogu geeystay dad badan oo riyaadooda ahaayd in ay Yurub aadan oo ay nolol dhaanto tooda ay dalka ku haaystaan ku heelan, hadii ay noqoto jir dil, kufsi amaba in la dilo oo nafta laga qaado. Sido kale kuwa uu ilaahay ka bad baadsho xabsiyada magafe waxaa ay naftooda ku waayan badda marka ay soo racaan doon aad u yar oo ay racaan dad badan oo ay qaadi karin. Waxaa jirto in marar badan lagu soo qoro wargeeisyada yurub dhowr boqolaal qof oo nafta ku waayo doomaha yar yar oo bada ku burburaan kadibna ay dad badani ku naf wayaan. Bishii marka ay ahaayd 9 mai sanadkii 2017 ayeey ahaayd markii 300 oo dad ah ay ku naf wayeen kadib markii doonta ay sarnaayeen ay ku rogmatay badda.
+
+
+
+Waxaa ma ilaabaan ah intaan dhibatadaan ku jirnay in wadan wax si daacad ah inooqabatay aysan jirin, haduu noqdo wadaan Afrikan ah ama Yurub amaba Asiya. Dadkeena somaliyeed waa lagu dawanayey inta ay is dilayeen ayada oo marnaba si daacad ah wadan uu inoogu soo gurmanin. Waxaa kaaga daran inta ay inoo soo gurman lahayeen ayeey badeena qashin sun ah ka buuxsheen oo ay hadana kaluunkeena naga soo gurteen qarkooda kalana dantooda un ay fiirsanayeen ayaga oo marba marka xigto mamuladii la dhisay ku soo hoos dhuunta si ay ooga shaqayeen danahooda un kaliya.
+
+Siyaasinteenana meeshii laga doonayay in ay dalkeena ku soo celiyaan xasalooni nabadeed iyo siaasad,dadkan leeysku dirayna isku keenan waxaa ay nooqdeen dad calooshooda u shaqeeystayaal ah dadkana kala sii foogayeeya. Runtii dadka aan siyaasinta ku tilmaamaynana waxaa ay noqdeen kuwo  nooga yaabiyey marka aan aragnay qaabka ay u xishmeyaan shisheeyaha ayna ayaga dhaxdooda isku xishmaaynan.
+Dhowr jeer waxaa dhacdo in ayaga dhaxdooda ay is khilafaan, meesha laga dooneyeyna in ayaga khilaafkooda ay xaliyaan waxaa soo kala dhax galo dowlado kale, kuwaasna ay u ektahay in ay dhagta u dhigtaan ayna ka amar qataan."
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="193dp" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button36"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_marginBottom="12dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginRight="12dp"
+        android:text="Booga xiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2"
+        app:layout_constraintVertical_bias="1.0" />
+
+</android.support.constraint.ConstraintLayout>

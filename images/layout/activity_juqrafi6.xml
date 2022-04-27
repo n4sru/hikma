@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".juqrafi6">
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="450dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent">
+
+            android:orientation="vertical" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Qayaas ahaan dadka Soomaaliya ku nool waxaa lagu qayaasa 14 milyan, waa tirokoob la sameeyey sanadkii 2016ka. Kadib dagaladii sokeeye
+waxaa aad u kacay dadka Soomalida oo dalka ka qaxay, dadka oo dalka dibadiisa ku nool ayagana waxaa lagu qiyaasa 1 milyan ila 1.5 milyan. Luuqadaha rasmiga dalkeena looga hadlo ayaa kow wuxuu yahay
+soomali, labona ah carabiga oo aan ka keenay dhinaca diinta Islaamka aynu aminsanahay. Luqada soomaliga ayaa ayadana leh laahjado kala duwan,
+labada lahjadood oo la kala saaro ayaa kala ah af may iyo maxaa tiri. Maayga ayaa looga hadlaa gobolada qaar ee dalkeena sida gobolka bay iyo bakool iyo
+meelo kamid ah jubooyinka. Maxaa tiri ayaa ayadana looga hadlaa gobolada kale badankooda. Luqadaha laga tirada badan yahay ee looga hadlo Soomaaliya waxaa kamid ah Baraawani sidoo kalena loo yaqaano Chimwiini, luqaddu waa kala duwanaansho rasmi ah oo ay ku hadlaan dadka reer baraawe ee Soomaaliya. Dadkani waxay inta badan ku nool yihiin Barawa, oo ku yaal xeebta koonfureed ee Soomaaliya. Kibajuni oo ayadana sidoo kale loo yaqaan Bajuni, luqadda waxaa ku hadlaya dadka Bajuni ee ku nool koonfurta Soomaaliya. Luqaddaas waxaay kasoo farcantaa swaxiliga .
+Mushuuguli ayaada waa luuqad kale, waxaana ku hadlaa dad qiyaastii ah 23 kun oo ku nool koonfurta Soomaaliya. Dadka soomaliada waxaa ay ooga duwanyihiin dalalka badan ee Africa waxaa
+weeye in dadka soomalida ay kasoo farcameen hal meel ayna iskaga mid yihiin waxkasta oo ka aheeyn kala dubanaasho lahjad iyo waxyaalo yar yar oo macno laheeyn. Somaalida waa dad
+isku eg oo si fudud isku aqoonsada. Soomaliana waa dal boqolkiiba boqol dad muslimiin ah. Dhinaca da'da 43.15 prosent waa 0 jir ila 14 jir, 19 prosent waa 15 ila 24 jir, 31 prosent waa 25 ila 54, 4 prosent waa 55 ila 64 ogu bambeeyna boqolkiiba 2 ayaa kaweeyn 65 jir. taasi oo ay ladhigan tahay in dadka da'da yar ay
+in badan ka badanyihiin kuwa da'da weeyn. Dhinaca cudurrada iyo dhimashada dalkeena waxaa oogu badan: 1 cudurrada shubanka, oo ay ku jiraan daacuunka; 2 Qaaxada; 3 malaariyada,kuwaas oo saameeyso haweenka uurka leh iyo carruurta ka yar shan jir; iyo kan afaraad oo ah jadeeco. Iyo cudurka dabeysha. Waxaa sabab u ah cuduradan badankood in ay san jirin xaarumo caafimad oo dadka dalka ku nool oo dhan loogu gargaari karo, abaaraha iyo nabadgelyo xumada."
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button46"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="280dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="10dp"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+</android.support.constraint.ConstraintLayout>
+

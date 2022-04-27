@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dagaladiisokeeyekadib">
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="369dp"
+        android:layout_height="462dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Dagaladiii Sokeeye kadib waxaa la isku dayey in la dhiso dowlad cusub oo ay Soomaliya yeelato.
+‘Dawladda Kumeelgaarkii aheed ee federaalka Soomaaliya’ wuxuu ahaa isku daygii ugu dambeeyay ee lagu doonayay dib usoo celinta dawladnimada dalka Soomaaliya. Dawladda KMG ah ee Soomaaliya waxaa la dhisay sanadkii 2004, waxayna heysataay aqoonsi caalami ah.
+Taageerada DKMG ah ay ka heysatay gudaha Soomaliya waxay aheyd mid aad u yar ilaa Mareykanka uu ka taageeray faragelin ay ciidamada militariga Ethiopia ku sameeyeen gudaha dalka Soomaaliya oo ay ka adkaadeen Midowga Maxkamadaha Islaamiga oo mucaarad xoogan ku ahaa dowlada KMG ah,
+Sidaasna waxaa ku xoogaystay xukunkii dawlada KMG. Kadib markii laga awood roonaaday Midowgii maxaakiimta Islaamka waxay ukala jabeen dhawr qeybood oo kala duwan. Qaar ay ku jiraan ururo kasoo jeeday dowlada la dhisay sida Al Shabaab ayaa dib isku uruursaday si ay u sii wadaan iskacaabinta ay kula jireen dawladda KMG iyo joogitaanka ciidamada Itoobiya ee dalka Soomaaliya.
+Bishii Febraayo 2007, Golaha Ammaanka ee QM ayaa wuxuu u fasaxay Midowga Afrika inay hawlgal ciidamo nabad ilaalin ah geyso Soomaaliya si loo taageero hey’adaha dawlada Federaalka KMG ah.
+Laba bil kadib, Hawlgalkii Midowga Afrika ee Soomaaliya (AMISOM) wuxuu bilaabay inuu ciidamo u daadgureeyo magaalada Muqdisho, waxaana haatan Midowga Afrika Soomaaliya ka jooga ciidamo lagu qiyaaso ku dhawaad 22,000 (labatan iyo labo kun) askari oo nabad ilaaliyayaal ah kuwaaso ka mid ah 8,000 askari oo la rabay inay gaaraan Muqdisho.
+Intii lagu jiray sanadihii 2007 ilaa 2008, xoogaga Al Shabaab waxay gaareen guulo militari iyagoo gacanta ku dhigay magaalooyin iyo dekaddo muhiim ah oo ku yaal bartamaha iyo koonfurta Soomaaliya. Dhamaadkii sanadkii 2008, kooxda Al-Shabaab waxay gacanta ku dhigtay magaalada Baydhabo.
+Bishii Janaayo 2009, ciidamada militariga Itoobiya ayaa guud ahaan isaga baxay dalka Soomaaliya, iyagoo wadanka uga tagay ciidamada nabad ilaalinta Midowga Afrika ka joogay Soomaaliya kuwaasoo awoodooda militari ay aad u hooseysay, noqoteyna ilaaliyaha kaliya ee dawladda KMG ah ee Soomaaliya.
+
+Waxaa laga sheegey samaan iyo ba xumaan askarta ajanibta ah oo nabad ilaalinta dalkeena. Samaanta oo ah in ay dowlada heshey karti dheerad ay iskaga difaaci karto dadka kasoo horjeeda in dowlad u dhalato dalka Soomalia iyo tababaro ay sinayaan askar somaliyeed. Dhinaca xumaantana waxaa kamid ah falal dambi ah ay ka geeystaan dalkeena, taasina aynan dowlada ama kuwa ayaga masuulka ka ah ba ay wax ka qabanin. Waxaane dhowr jeer lagu edeeyey in goobahuuga basaata ilashadaan iyo in dowlada federalka ay heshey agaab military ay ka iibisay cadowga dagaalka loola jiro.
+Sanadki 2017 waxaa ay askartani dalka Soomaliya ku sugnayeen 10 sano, waxaana la sugayay in ay Somalida ay la wareegto amniga dalkooda. Taasina maysan dhicin, dowladaha ay ka socdaana waxa ay ku doodayeen in loogu daro waqtiga ay joogayaan dalka. Taasina ay noqon karto in ay tahay qaab lacag fudud ay askartaasi iyo dowladaha ay kasocdaan ku helaan sababto ah askartani iyo dowladahooga waxaa deeqdooda bixiya wadamada Yurub iyo Mareeykanka. Waxaa kale lagu edeeyey in ay askartaasi qeybta kenya kasocoto ay dhuxul sharci daro ah kaga ganacsadaan dekedda Kismaayo. Waxaa wax aad loola yaabay noqotay sanadka 2018kii marka uu korneey kamid ah kuwa nabad ilaalinta yiri hadalkan Soomaaliya waa sidii doofaar la dhaqayo oo kale, waad dhaqaysaa misna wuu wasakhoobayaa. Waxaay tani na tusaaysa mar walba dalka dantiisa waxaa garan karo kaliya kan iska leh, wax lala yaabana ma ahaan in nin dalkale kasoo jeedo oo dano kale ka leh in u jabkaaga ka faa'ideeysto.
+
+Sidii loo sameeyey dowlada cusub dalkeena wuxuu ka gudbay nidaamki jamhuriadd wuxuuna u gudbay qaab federalisme. Maxaay ku kala duwan yihiin Federaalka iyo maamulkii hore Rebublik. Federal waa maamul oo qof walba oo heeysto is maamulid qaas u ah, asaga oo heeysto awood kooban. Waxaayna heeystaan maamuladaas hal dowlad oo ka awood weeyn taasina ay noqoneeyso dowlada dhexee oo xaruntooda tahay Moqdisho. Waxa kale ay maamulada iskooda isku maamulo haystaan hoogaamiye ay ayaga soo dorteen iyo sharci mamulkaas qaas u ah. Dowlada dhexe waxaa ay shaqo ku ledehay arimaha xiriirka dibada iyo howla kale ay mamuladaasi oo sharci ahaan loo ogaleen.
+Jamhuriyadd oo ahaa nidaamki hore oo wadanka lagu maamuli jiray wuxuu ahaa qaab dowlad aan lahayn lahayn boqortooyo iyo dhaxal. Awoodda qaranku waxa ay ku jirtaa awoodda dawladda mana haysato boqor ama boqor. Ereyga Jamhuuriga wuxuu ka yimaadaa ereyada luuqada Laatiin ee dibedda ah, taas oo macnaheedu yahay shey dadweyne. Tusaale ahaan, Mareykanka waa Jamhuuriyad, Hindiya waa Jamhuur laakiin sidoo kale North Korea iyo Cuba waa Jamhuuriyado.
+
+Madaxweeynaha Dawladda Jamhuuriyadda waa qof ay dadka u doorteen si toos . Inta badan Jamhuuriyadda, Hogmaiyaheeda Dawladada waxaa loo yaqaan madaxweynaha. Dalalka qaar, madaxweynaha ayaa la doortaa oo leh awood siyaasadeed oo badan. Wadamo qaar, madaxweynuhu wuxuu leeyahayawood weeyn, qaar kalane waxaa jiro in u awoodaas oo kale uusan laheeyn laakiinse u muhiim u yahay nidaamka sharciga. Muhimada Jamhuriyada waa in u madaxweeynaha u masuulyada badanka oo wadanka asaga leeyahay.
+Dhibkeey keentay federal marka loo gudbay. Runtii dhibaato ayeey leheeyd in la dhisay mamul nidaam federal sababto ah dad isku arkay in ay isku mid aheeyn oo nin walbo qabiil u isku arko marka la yidhaahdo adiga meshaada ku haso dhaafin waa aan garan karnaa in u dhib ka dhalanayo. Si walbo oo wanaag loo doneyey in federaalkaas u ku imaado aqabaad badana waa loola kulmay. Waxaa dhacday nin walba oo maamulkiisa laga soo doorto in u isku arko in u madaxweyne awood leh isku arko, asaga oo la tartamaya maamulada kale iyo xitaa madaxweynihi dowlada dhexe oo laga rabay in ixtiraam la tuso oo hoogaanka wadanka looga dambeeyo. Qof kasta oo laga soo doortana maamulk wuxuu leeyahay magaca «Madaxweeyne». Waxaa kale oo dhacday in nin walba uu arimaha dibada iyo waxyaala kale oo ay ku shaqada lahaayd dowlada dhexe ay ayagana soo galaan. Waxaa kale jiro calamo ay sameeysteen maamul waliba taasi oo runtii hoos u dhigtay qimaha calanki buluuga oo somali isku aqoonsaneeysay.Waxaa kale jiro in dhowr jeer ay dagaalo ka dhax dhacaan mamulo daris ah dhul leeysku haysto awgeed. Dhulka meeysan somali lahaayn?
+
+Dowlada aan dariska nahay ee Itoobiya waa dal federal ah, waana fahmi karnaa sababto ah waa dad qowmiyad kala duwan ah oo xitaa kala diin ah, lakiin dhib ayeey nagu tahay hadii an somali nahay in aan qaadano nidaam nocaas oo kale, si kalana hadii loo fasiro waxaa macquul ah in u nidaamkan kala qaybinayo dadka soomalida qaab qabiil meesha uu qowmiyadaha ay dadka kale ka yihiin.
+
+Wax kale oo yaab oo ku soo biirmay dowladda cusub waa hab qaaybsi loogu magac daray 4.5. Waa nasiib daro dad isku dal ah isku diin ah isku af ah inay ku heshiin waayeen sidii xal loogu heli lahaa dib udhiska dalkooda.
+Nidaamkaan 4.5 waa nidaam caqabad ku ah dib udhiska dalka, waxaana gadaal ka riixaya wadamada aanan faaidada ku qabin in soomaaliya iskeeda u istaagta heshana nabad waarto oo shacabka soomaaliyeed ku naaloodaan. Aduunka wuxuu marayaa hormaar dhinaca siyaasada si dadka wadan ku nool ay ka wada simanyihiin in danaha shacabka iyo dalka la dhooro. 4.5 ma waxaa laga yaaba in aan abadkeen arki doonin qof qabiil yare ka socdo oo madaxweyne ama raysal wasaare ka noqon donin. Qofkaas oo laga yaaba in u horseed u noqdo isbadal wanaagsan iyo hormar dalkeena? Ma waxay tahay in aan qofka qabiil ku doorana hadii uu yahay qof aqoon lahaayn ama qof oo aan xil lagu aamini karin. Tusaalaha aduunka hormarka uu marayo, dalka ingriiska ee waxaa duq magaalo lagu doortay nin kasoo jeeda asal ahantiisa Bakistan, wuxuuna ku dhashay uuna ku barbaaray London. Waxaa loo arkaa muwadin Ingriis ah, waxaay tahay kaliya in dadka dagan London oo dhan si dhab iyo cadaalad ah uula shaqeeyo. Dad badan ayaa aminsan in soomali herkaasi gaari karin. Anaga oo waxkasta isgaga mid nahay oo maxaa inoo diidan?
+“Jiilka waqtigan siyaasada soomaaliya horboodaya waa jiil u adeega siyaasadaha dalalka caqabada ku ah geedi socodka  nabadeed ee dalka soomaaliya, waan ka xumahay inaan sidaa iraahdo laakiin waxaa muhiim ah in bulshada soomaaliyeed fahanto dhibaatada ay ku hayaan jiritaankooda umadeed”
+Siyaasi kasta wuxuu ka hormariyay danta umada soomaaliyeed mida uu leeyahay isaga, waana nasiibdaro in marka xilka laqabanayo lagu dhaarta in dalka iyo dadka  si hagar ku jirin loogu shaqeynayo.
+"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

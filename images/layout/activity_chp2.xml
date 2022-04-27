@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chp2">
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="432dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/textViewchp2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Kadib markii uu dalkeena Soomalia xornimada qaatay wuxuu  1960kii waxaa la doortaay dowladii jamhuuriada somaliyeed. Dowladaas u madaxweeynaha ka ahaa. Aden Abdulle Aden Cadde, asaga oo lagu doortay si dimoqraatiyad ah uuna ahaa madaxweeynaha oogu horeeyey. Dowladaas mowqifyadeedii oogu muhiimsanaa in ay ka shaqeeyan waxaa ay ahaayd isku keenida Somaliida oo ay gumeestaha kala qaybiyeen, shanta somaali oo ahaa Djibuiti, Somali Galbeed NFD iyo Somalida Waqooyi. Waxaa ay ku guleeysatay in ay soo ceeliyaan Somalida waqooyi. Muhiimadaaasna waxaa cadeen u ahaa calanka aan qadanay oo shanta xidig dhaxda ku leh. Dowladaas ayaa barigaas ka codsaneeysay calamka in xuquuq ay ku doortay xoriyadooda la siyaa soomalidi naga maqneeyd.  Taasi waxaa ay keentay in dagaal Somalia iyo Itoobia xuduuda ku dhax maro dagalkaas oo marki dambe xabad joojin loogu hisheeyey Sudan. Djbuitina waxaa ay heshay xooriyad ay ku doorato in ay doortaan ku biirida soomalida walalaheed iyo in ay dal gooni ay helaan. Ayaga oo markaa doortay in ay dalkooda gooni u goostaan.    Madaxweyne Aadan Cabdulle Cusmaan waxaa u ku dhaashay magaalada Baladweynemara u sanadka ahaa 1908dii. Wuxuuna wax ku soo bartay dugsiyada Quraanka Dugsiyada Hoose, Dhexe . Asaga oo intaasba ku qaatay magaalada caasimada ee Moqdisho Aden Cadde wuxuu haaystay cilmi dhinaca maamulka dowladnimo, asaga oo sameyay dhaqdhaqaaq ganacsi intii uusan ku biirin ka hor xisbigii Leegada ee SYL bishii Febraayo sanadkii 1944tii. Sanadkii 1946dii wuxuu ka mid noqday xubnihii maamulka ee Xisbigaasi, waxaa loo doortay in uu noqdo xoghayaha xisbigaasi ee degmada Baladweyne. Wuxuu sanadkii 1951dii noqday maamulihii gobolka Mudug, halkaas oo uu wakiil buuxdana uga ahaa xisbigii Leegada illaa laga soo gaaro sanadkii 1953dii. Sanadkii 1953dii waxaa loo doortay in uu noqdo ku xigeenka maamulkii maxmiyadda ee loo yaqaanay Territorial Council, sidoo kale 1954tii waxaa loo doortay  Guddoomiyihii Xisbiga Leegada xilkaasina uu hayay illaa laga soo gaaro bishii Febraayo 1956dii. Bishii Maajo Sanadkii 1958dii waxaa loo doortay mar kale xilka ugu sarreeya ee Xisbigii Leegada iyo guddoomiyihii golihii lagu magacaabi jirey Somali Legislative Assembly, xilkaasina uu hayay illaa 1dii bishii July sanadkii 1960kii. Aadan cabdulle Cusmaan waxaa lagu aasay magaalada Muqdisho 8dii bishii Juun 2007.Aasakiisana waxaa si wadajir ah uga soo qeybgalay madaxweynaha dowladda KMG ah C/llaahi Yuusuf Axmed oo ay la socdeen madaxweynihii dowladdii Carte C/qaasim Salaad Xassan iyo madaxweynihii isaga ka horreeyay ee Cali Mahdi Max'ed."
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button33"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="268dp"
+        android:layout_marginStart="268dp"
+        android:text="Booga Xigga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

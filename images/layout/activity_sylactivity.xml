@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sylactivity">
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="450dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent">
+
+            android:orientation="vertical" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Horseedkii S.Y.L waxay  ku shaqaynayeen  Soomaalinimo, dal jacayl iyo midnimo, taasina waa sababta  u suurta galisay in ay gaaraan hadafkooda oo ahaa helitaanka  Qaran Soomaaliyeed oo madax banaan,dhanka kale marka aad dib u daalacato taariikhda umadaha Waxaa kuu soo baxaysa in ay dhalinyaradu tahay xoogga ugu muhiimsan ee wax ku soo kordhiya higsiga bulshooyinka sida gobanimo u dirirka, difaacidda qaranimada iyo xaqiijinta barnaamijyada horumarineed ee bulshadaas u qorshaysan. Aasaasayaashii xisbigii S.Y.L  waxay ahaayeen 13 dhallinyaro oo intooda badan lahaa waxbarashada aasaasiga ah ,waxay iska xilsaareen sidii loo heli lahaa xornimo taam ah iyo cadaalad,isla markaana dalka looga xorayn lahaa gumaysigii haystay, muddo kooban kadibna waxay ku guuleysteen in ay awoodooda ku baahiyaan gudaha dalka ,isla markaana xafiisyo iyo laamo ka furtaan gobolada  dalka soomaaliya,sidoo kale ururo dhallinyaro oo matalaya Xaaji Shukri Sheekh Axmed oo ka mid ahaa dhallinyaradii Leegada degmmada Afgooye ayaa u sheegay dhallinyarada iyo qiimaha ay ku leeyihiin dalka ay tahay arrin ku weyb shacabka Soomaaliyeed, isagoo xusay in sannadkii 1943-dii dhallinyaradii jirtay iyo kuwa hadda jira ay nasiib badan yihiin dhallinyarada maanta jirta, maadaama ay yihiin dad la jaan qaaday duni casri ah. Xaaji Shukri ayaa  tilmaamay in dhallinyarada Soomaaliyeed looga baahan yahay in ay u istaagaan bad baadinta Dalka, Dadka iyo Diinteena, si ay qeyb ugu noqdaan dhallinyaro taariikhda baal Dahab ah ka gasha.Dalkeena nasiib daro waxaa ay u ektahay in uu dib ugu noqday gumeeysigi hore oo lakiin qaab ka duwan yahay. Waxaan aragnaa in qabiilkii wali jiro oo dadkana lakala qaybshay. Tusaale nagu filan waxaa ah magaalada Galkacyo oo dad marka kowaad muslim ah wada dagaan. Waxaa kale jirto in ay siyaasinteena ay tabar laheeyn dalkeena ooga difaacan cadowga saxda ah, somaalina ayaka un iska adag yihiin. Dastuur lagu dhaqmo iyo cadalaad hadii adii loo heli waayo wadankeena nasiib daro wuxuu ku jirayaa marxaalado xun. Wadanka hadii la rabo in uu hagaago waa in u sharciga si cadaalad u qaban karaa kan kula ladhashay iyo kan kula dhalanin hadii ay fal dambi ah ku dhaqaaqan, adiga oo firineeynin walaaltinimo,qabiil iyo saxiib ee aad ixtiramaysaan nadaba dalka iyo nabad ay bulshada ku noolato. Hadii qabiil iyo musuq maasuq lagu dhaqaaqo ogu dambeeynti dhibka ka dhasho waxaa u soo garayaa qof kasta dalka ku nool taajir ama faqiir naafo amaba saqiir. Maahmaah waxaa jirta ingriis ah oo leh “what goes around comes back around” taasi oo ay micnaheedu tahay wixii soo wareegsada adiga ayu dib kugu soo laabanaya."
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button27"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp"
+        android:layout_marginEnd="175dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="175dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="7dp"
+        android:text="Dib u noqo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/button32"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+    <Button
+        android:id="@+id/button32"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp"
+        android:layout_marginTop="7dp"
+        android:text="is tijaabi"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button27"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+
+</android.support.constraint.ConstraintLayout>

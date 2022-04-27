@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dagaladiisokeye">
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="451dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dagaaladii sokeeye aas aaskiisa wuxuu ahaa markii la nacaay dowladii oogu dambeeysey kadib intaa aanan la dhisin tii federaalka. Taasina ay bilaawgeeda ahaa kadib markii oo ay somaalida naceen xukuunki hantiwadaaga. Waxaana bilaabatay jabhado dooneyey in ay la dagaalamaan Madaxweeynihi xukunka haayey ee siaad barre. Abriil 9, 1978 – Waxaa dhicisoobey Inqilaab lala maaganaa in lagu rido  taliiskii militariga oo barigaas jiray oo Siyaad Barre. Waxaana la toogtey 17 kamid ahaa ragii inqilaabka lagu tuhmay oo uu kujirey Col. Maxamed Sheekh Cismaan oo ahaa hogaaminayey Inqilaabka. Xilligaas ayuu Cabdullaahi Yuusuf Axmed ka baxay Soomaaliya maadaama uu kamid ah raggii ku jirey fulinta Inqilaabkaas. Inqilaabku wuxuu ku qorshaysnaa inuu dhaco April 12, 1978, laakiin wuu ka soo hormaray oo wuxuu dhacay taariikhdu markay ahayd April 9, 1978 waana uu dhicisoobay. Waxaa markaa kadib soo baxay jabhado kala duwaan, jabhadahaas oo kuligood doonayay in la rido taliskii militariga. Jabhadii oogu horeeysay waxaaa la aasaasay sanadka markuu ahaa September 1978, korneel Cabdullaahi Yuusuf oo kamid ahaa Saraakiishii Ciidamada Soomaaliya Hogaaminayey dagaalkii 1977, ayaa asaasay mucaaradkii ugu horeeyay ee si toos ah ulla dagaalama xukunkii Militariga, waa jabhadii (SSF) taas oo bishii Oktoober 1981 isu bedeshey (SSDF), jabhadaasi ayaa ahayd mid soo shaqeenaysay illaa dhismihii Maamulka Puntland ee 1998 dii laga dhisay gobaladii Waqooyi Bari, Sool, Sanaag iyo Degmada Buuhoodle ee gobalka Togdheer. Abriil 1981 iiyadana waxaa la aasaasay Jabhadihii SNM. Jabhadan ayaa soo shaqeenaysay illaa sanadkii 1991-dii markii la dhisay maamulka la baxay Soomaaliland.  1989kii waxaa la aasaasay Jabhadii USC.  Jabhadan ayaa ahayd midii fursada u heshay inay gacanta ku dhigto magaalada Muqdisho ee caasimada dalka Soomaaliya iyo xarumihii ugu muhiimsanaa Dowlada oo ay ku jiraan kuwii militariga iyo Kaydkii hubka Qaranka Soomaaliyeed, walow ay ku guuleysan weysay inay dhisto wax maamul ah. Kadib markii ay gacanta ku dhigeen USC magaalada caasimada soomaliya ee Moqdisho, waxaa meesha ku heeshin waayey General Maxamed Faarax Caydiid iyo Ganacsade iyo Siyaasi Cali Mahdi Maxamed. Halkaas oo ay hadana dagaaladii kasii socdeen.  Dhamaan Jabhadahan waxaa ay wateen siyaasado kala duwan lakiin waxaa ay ku mideysnaayeen in xukunka ka tuuraan Xukuumadii Maxamed Siyaad Barre.  27kii Janaayo 1991 – Maxamed Siyaad Barre ayaa ka baxay Caasimada Soomaaliya ee Muqdisho. Waxaa xiligaasi si rasmi ah u bilowday Dagaalkii Sokeeye ee dalka Soomaaliya, kadib markii Jabhadihii dalka qabsaday ay  hanan waayeen dhismo maamul Soomaali oo dhan ay u dhanyihiin.  Jabhadaan oo qabiil ku saleysan waxaa ay ka kala yimid waqooyiga iyo koonfurta dalka. Kadib markii ay sii xoogeysteen loolankii awooda iyo dagaaladii cuslaa ee u dhaxeeyay Qabqablayaashii kala ahaa Maxamed Faarax Ceydiid iyo Cali Mahdi Maxamed, ayay goboladii waqooyi galbeed ee uu Ingiriiska gumeysan jiray, una dhaxeysa Jabuuti iyo gobolada Waqooyi bari Soomaaliya oo haatan loo yaqaan Puntland Â ku dhawaaqday inay gooni isu taagtay, inkastoo aan ilaa iyo hadda uusan aqoonsan madaxbanaanideeda dal ama urur caalami ah. Barre iyo taageerayaashiisii hubaysnaa waxay koonfurta sii joogeen tan iyo 1992 taasoo sababtay xasilooni darro, Waxaa isla mar ahaantaana sii xumaanayey dagaaladii ka socday Koonfurta Soomaaliya, iyadoo dagaalada ay dhulka dhigeen magaalada caasimada ee Muqdisho. Waxaa sidoo kale dagaaladu ay saameyn ku yeesheen dhul beereedka iyo qeybinta cuntada gargaarka ah ee koonfurta Soomaaliya, taasoo dhalisay abaar daran iyo dhimashada 300,000 qof oo Soomaali ah. Waxaa dhibkaas jawaab ka bixiyay Qaramada Midoobay oo ansixisay in hawlgal nabad ilaalineed oo xadidan loo diro Soomaaliya, hawlgalkaas oo la magac baxay Howgalka QM ee Soomaaliya (UNSOM). Waajibaadka UNSOM oo u badnaa fulinta hawlaha gargaarka bini’aadanimada ayaa waxay fasax u heysteen inay is-difaacaan, laakin waxaa tixgelin waayey kooxihii dagaalamayay. Waxaa dalka soo wajahday musiibo bini’aadanimo oo isa soo tareysay, sidaas awgeed ayay dowlada Mareykanka isku dubariday isbaheysi militari oo ujjeedadiisu aheyd inay Koonfurta Soomaaliya ka dhigaan meel ammaan ah oo laga fulin karo hawlaha bini’aadanimo. Isbaheysigan oo la magacbaxay UNITAF ayaa wuxuu Soomaaliya galay bishii December 1992, isagoo bilaabay hawlgalkii la magacbaxay Raja Soo Celinta (Operation Restore Hope), kaasoo ku guuleystay soo celinta nimaadka iyo dhimista abbaartii ba’neyd ee dalka ka jirtay. Bishii May 1993, Mareykanka wuxuu Soomaaliya kala baxay ciidamadiisa badankood, waxaana isbaheysigii UNITAF badalay hawlgalkii QM ee la magacbaxay Hawlgalka Qaramada Midoowday ee Soomaaliya II (UNOSOMII). Wuxuu Jeneraal Ceydiid u arkay hawlgalkaan cusub mid halis ku ah awoodiisa, sidaas awgeedna waxay maleyshiyaadkiisii weerar ku qaadeen ciidamada UNOSOM. Dagaalkii wuu kasii daray. Weeraro xoogan oo intii lagu jiray bishii October 1993 ka dhacay magaalada Muqdisho ayaa waxaa lagu dilay 19 askari oo Mareykan ah iyo in ka badan 1,000 Soomaali ah. Sanadkii 1995 hawlgalkii Qarama Midoowday ee Soomaaliya ayaa soo afjarmay, iyagoo ciidamadoodii kala baxay Soomaaliya bishii March 1995, ciidamaas oo uu khasaaro badani soo gaaray kuna fashilmay soo celinta dawlad iyo kala dambeyn ka dhalata Soomaaliya. Bishii August 1996 waxaa magaalada Muqdisho lagu dilay Caydiid.   Si walba ay noqotay ba dalkeena wax badan ayuu u dhimay dagaaladi sokeeye, dhibaato oo lasoo koobi karin ayuu ku harsiiyey wuxuuna kala fogeeyey umada Somaliyeed, anaga oo dhagta u taageeyno qof walba oo qabilkeena ah oo xitaa haduu wato dano shisheeye oo ineeysku keen direeyso aanan dhahaaynin waad qaldantahay. Waxaan rajeeyneeyna in Sha Allah umada somaliyeed ay bartaan tariiqda iyo dhiiga u daatay difaaca dadka, diinta iyo ba dalka Soomaaliya oo ay iskooda maskaaxdooda u isticmalaan ayna kala gartaan qofka qaldan iyo kan saxsan oo wanaag dadka dhan u raba hadii aynu nahay umada Somaliyeed. Waxaan maanta laga been shegi karin in ceebta kuligeen inawada haysato lakiin maanta ayaan wax ka badali karnaa siiba dhalanyarada jiilka cusub. "
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="193dp" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button33"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="268dp"
+        android:layout_marginStart="268dp"
+        android:text="Booga Xigga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+</android.support.constraint.ConstraintLayout>

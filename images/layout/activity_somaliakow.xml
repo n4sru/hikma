@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".somaliakow">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:text="Tariikhda Qadiimiga ee Soomaaliya. "
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/holo_blue_dark"
+        app:layout_constraintBottom_toTopOf="@+id/textView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="371dp"
+        android:layout_height="387dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.701">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Qeybtii 1-aad; Dhulka Soomaalya waxaa uu ahaa mid dadku degan yihiin inka badan 10,000 sano Ciise Hortii, wakhtigaasi oo dadku intooda u badan ahaayeen duurgaleen dhaqda beeraha iyo xoolaha. Sidaasi ay tahay waxaa jirtay xadaar tartiib isku soo taraysay; oo waxaa la sheegay in dadkaasi ay lahaayeen xidhiidhyo ganacsi xoolaha iyo dhirta ah; iyo weliba cilaaqaad xog dheer oo ku salaysan maamul iyo horumar.  Si kastaba ha ahaatee, xadaaradihii ugu horeeyay waxaa ka mid ah farshaxanka, beeraha, xoolo-dhaqashada iyo maamulo yaryar oo ku salaysan beelo ama deegaan. Deegaanka Laas Geel oo ah meel u dhow magaalada Hargeysa, waqooyigalbeed Soomaaliya waxaa uu ka mid yahay taariikhda qadiimiga ah, waxaana lagu qiyaasay in uu farshaxankaasi jiro ilaa 5,000 sano. Taariikhda Badmareenka Soomaalida waa taariikhda dadka baxaariga ee u dhashay ama asal ahaan ka soo jeeda wadanka iyo dadka Soomaalida.Sida lagu sheegay buugaag badan oo taariikhi ah, dadka Soomaalida ahi waxay tan iyo wakhtiyo hore ahaayeen kuwo ku safra badaha waaweyn ee caalamka, ayagoo u socdaalaya sababo kala duwan, sida ganacsi, aqoonraadis, dalxiis, iyo kuwo kale. Boqortooyooyin badan iyo maamulo ka soo jiray gayiga Soomaaliya ayaa waxay dhiseen noocyo badan oo maraakiib, doonyo iyo qalab lagu safro. Kuwa ugu caansanaa waxaa ka mid ah: Dekeda Saylac: oo lagu qiyaasay ineey jirtey in ka badan kun sano. Reer Xamar: ganacsatada reer Muqdisho ee u kala safri jirtey Soomaaliya iyo Hindiya waqtigan awoowayaasheena waxay ahaayeen xiriir muhiim ah, oo ka jiray Geeska Afrika, waxaay isku xirin jireen ganacsiga gobolada Afrika iyo aduunka intiisa kale. Badweynta Hindiya iyo Ganacsatadaas ayaa ahaa kuwa ugu waawayn ee Fududeeya sidaa loo suuq geeya alabaha ay ka ganacsan jireen, sida malmasha iyo xawaajiga/xawaash, waxaay ayaheeyn waxyaalaha aad loo qiimeeyn jiray oona loogu ganacsi geen jiray Muwaadiniinta Masaarida ah, Griigi hore iyo Baabiliyaanka. Waqtiyaadi Dhexe, xoogag xoog badan oo Soomaali ah ayaa hareeyay ganacsiga gobolka oo ay ka mid yihiin Suldamadii Ajuuraan, oo sii waday xiriirka ganacsiga dhanka badda ee Carabta, Hindiya, Venetia, Persia, Masar, Portugal ila iyo Shiinaaha. Dhaqanka ganacsiga dhanka badda ayaa sii jiray xilligii dambe ee ay soo baxeen suldaamadii Geledi.Diinta Islaamka dalkeena waxaa uu ka mid ahaa meelaha oogu horeeyso u ilahay soo gaarsiyey nimcada islaamka. Waxaa lagu tilmaama in diinta Islaamka ay somaalia soo gartay kadib marka uu rasuulkeena nabaad iyo naxariis koorkiisa ha ahaate saxaabadiisa ay ka soo hajireen makka iyo madina ayna imaadeen dalka Ethiopia,oo markaas loo yaqaanay Abbysinia. Diinta Islaamka tariiqdeeda hore oo wadankeena waxaa ay wali lagu arka magalooyin badan oo wadankeena ah. Sida magaalada Saylac waxaa ku yaalo masajidka al qiblateeyn. Masjidkaas oo ah mid labo qiblo leh. Qibladii kowaad oo aheeyd qudus iyo midii dambe ee Makka. Masjidkaas oo lagu sheegayo in la dhisay sanadihii 600 ila 700 melahaa. Masjidka waxaa u ka mid yahay kuwa oogu qaadimsan qaarada Africa."
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+
+    <ImageButton
+        android:id="@+id/imageButton14"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="74dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageButton9"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/nxt" />
+</android.support.constraint.ConstraintLayout>

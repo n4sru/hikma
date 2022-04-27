@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chp2p2">
+
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="432dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/textViewchp2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Madaxweynihii labaad  Allaha U naxariistee Madaxweynihii Jamhuuriyadda Soomaaliya ee labaad magaciisa wuu C/rashiid Cali Sharmaarke wuxuu ku dhashay  degmada Xaradheere ee gobolka Mudug sanadkii 1919. Wuxuu dugsiga Quraanka iyo waxbarashadiisii dhameeyay sanadkii 1936dii, wuxuu bilaabay in uu noqdo ganacsade ka dibna shaqaale ka shaqeeya howlaha Civil servant maamulkii talyaaniga ee maxmiyadda, wuxuu noloshiisa ku qaatay wixii intaas ka dambeeyay magaalada Muqdisho. Wuxuu ka mid noqday  ururkii Somali Youth League waxyar ka dib markii la aasaasay sanadkii 1943dii, wuxuuna ku biirey maamulkii ingiriiska ee Soomaaliya  British Administartion Civil Service. Wuxuu waxbarashadiisii dugsiga sare dhameystay 1953dii, isagoo weli ka shaqeynaya Civil service, wuxuuna helay Course Schoolership ah dalka Talyaaniga gaar ahaan Jaamacadda University of Rome “La Sapienza”, halkaas oo uu ka qalin jibiyay sanadku markuu ahaa 1958dii, wuxuuna sanad ka dib ku soo laabtay dalka Soomaaliya, ka dibna waxaa loo doortay in uu noqdo xubinka tirsan Golihii lagu magacaabi jirey Somali Legislative Assembly. Markii ay Soomaaliya noqotay dal madaxbannaan bishii 1, July 19960kii, wuxuu noqday Ra’iisul wasaarihii ugu horreeyay ee ay yeelato dalka Jamhuuriyadda Soomaaliya. Wuxuu markiiba bilaabay in uu dadaal u galo sidii uu guulo uga soo hoyn lahaa dhinaca arrimaha dibedda, wuxuuna dalka Ra’iisul wasaare ka ahaa illaa 1964tii. Ka dib doorashooyin dalka ka dhacay wuxuu mar kale noqday xubin ka tirsan baarlamaanka Soomaaliya. Sanadkii 1967dii doorashooyin la qabtay laguna dooranayay madaxweyne cidda ka noqoneysa dalka ayaa loo doortay in uu dalka Madaxweyne ka noqdo, ka dib markii doorashooyinkii dhacay uu kaga guuleystay madaxweynihii xilka kaga horreeyay ee Soomaaliya MD. Aadan Cabdulle Cusmaan “Aadan cadde”, wuxuuna xafiiska kala wareegay isla sanadkaas oo ku beegan 10kii June 1967dii. Labo sano ka dib markii uu dalka Madaxweyne ka noqday ayaa askari ka tirsan ciidamadii ilaalada ka hayay uu toogasho ku dilay 15kii bishii oktoobar 1969kii, isagoo booqanaya gobolka Sanaag ee dalka soomaaliya halkaas oo ay abaaro ka dhaceen. Lix maalmood ka dib markii dilku dhacay ayay ciidamadii dalka talada xoog kula wareegeen iyadii weli lagu jiro baroordiiqda madaxweynahaasi la dilay. Waxaana 21kiiOktoobar 1969kii dalka Madaxweyne ka noqday Allaha u naxariistee Sarreeye gaas Maxamed Siyaad Barre oo ahaa Taliyihii Ciidanka Xoogga dalka Soomaaliyeed."
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button33"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="268dp"
+        android:layout_marginStart="268dp"
+        android:text="Booga Xigga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
+
+
+

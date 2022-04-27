@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".gabayaxmedgur">
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="44dp"
+        android:layout_marginTop="4dp"
+        android:text="Cutubkaani waxaa rabaa in aan ku dhameeyno gabay uu tiriyey halgamihii  mujaahidka ahaa ee Said Cabdulle Xassan waqti hadda laga joogo 100 sanodood"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintBottom_toTopOf="@+id/textView19"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/button38"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="13dp"
+        android:layout_marginLeft="278dp"
+        android:layout_marginRight="13dp"
+        android:layout_marginStart="278dp"
+        android:layout_marginTop="31dp"
+        android:text="Is tijaabi"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView31" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="23dp"
+        android:text="1. Doodan waxaan u leeyahay dumarkiyo caruurtoo"
+        app:layout_constraintBottom_toTopOf="@+id/textView21"
+        app:layout_constraintTop_toBottomOf="@+id/textView18"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="279dp"
+        android:layout_height="19dp"
+        android:layout_marginBottom="9dp"
+        android:text="Dadkii idinka waynaa hadday idin duleeyeen"
+        app:layout_constraintBottom_toTopOf="@+id/textView22"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:text="3.Dambi kama ay yaabine cuntay idinka doorteen "
+        app:layout_constraintBottom_toTopOf="@+id/textView23"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="4. Duunyaa la dhaafsaday dugsigaad galeeyseen"
+        app:layout_constraintBottom_toTopOf="@+id/textView24"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="5.Dameerkuna ma yeelen halkay talo ku daysteen "
+        app:layout_constraintBottom_toTopOf="@+id/textView25"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="6.Dab intay shideen bay dalaq idinku siiyeen "
+        app:layout_constraintBottom_toTopOf="@+id/textView26"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="7dp"
+        android:text="7.Doox intay qodeen bay ciid idinku daadsheen"
+        app:layout_constraintBottom_toTopOf="@+id/textView27"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="8. Nin idiin damqanayaa idinkama dambeeyee"
+        app:layout_constraintBottom_toTopOf="@+id/textView28"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="7dp"
+        android:text="9. Hadaydaan digtoonaan daad bay idin qaadiye"
+        app:layout_constraintBottom_toTopOf="@+id/textView29"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="7dp"
+        android:text="10.Duleedada kufaartaa dacas idinku laynoo "
+        app:layout_constraintBottom_toTopOf="@+id/textView30"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="11.Naf dalkaaga doonaysaa firaash looma daadshee"
+        app:layout_constraintBottom_toTopOf="@+id/textView31"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="11dp"
+        android:text="12.Dabkan aan shidaayaa daawadiina weeyee"
+        app:layout_constraintBottom_toTopOf="@+id/textView32"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="55dp"
+        android:text="3.Dariiqii rasuulkiyo dawga ha ka baydhina"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="0dp" />
+
+</android.support.constraint.ConstraintLayout>

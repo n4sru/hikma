@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".juqrafi2">
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="450dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent">
+
+            android:orientation="vertical" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Taariikh ahaan dalkayagu waxa uu lahaan jiray xadaarad facween waxaana dalkeena loo aqoon jiray magacyo badan sida Dhulkii udgoonaa , Dhulkii eebe iyo Geeska Africa.
+Caasimadda dalkeena waa Muqdisho, tan labaadna waa Hargeysa, tan sadaxaadna waa Kismaayo. goboladii ugu horeeyay ee xornimadiisa qaata dalkeena waxa uu ahaa gobolka Waqooyi waxaana xornimadooda ay qaateen 26kii bishii June sanadii 1960kii halka gobolada kale ee koonfurtana ay xornimadooda qaateen 1-dii bishii Luulyo sanadii 1960kii.
+Shirkii gumeestayaasha Africa ee lagu qeybsaday Africa ee ka dhacay Baar-liin 1884-tii ayaa dalka Soomaaliya loogu qeybiyey 5qeybood waxana shantaasi qeybood ay kala ahaayee:
+Gobolada Waqooyi oo la siiyay gumeestihii Ingiriiska.
+Gobolada koonfureed oo la siiyay gumeystihii Talyaaniga.
+Xeebta Soomaaliyeed ee Jabuuti ee loo dhiibay gumeystihii Faransiiska.
+N.F.D oo iyadana la siiyay dalka Kiiniya.
+Iyo gobolada  Soomaali galbeed oo gacanta loo geliyay Dawladda Itoobiya.
+shantaan gobol waxaa la isku yiraahdaa shanta Soomaaliya taariikhdu markii ay eheyd 27kii bishii June sanadii 1977 ayay Jabuutina xornimadeeda qaadatay, waxaasa wali gacanta gumeestaha ku jira Soomaali galbeed iyo N.F.D.
+Hadaba markii ay xurnimada qaateen gobolada Koonfureed sanadii 1960kii waxay ahaayeen lix gobol oo kala ahaa gobolka Banaadir, gobolka Hiiraan, Gobolka Mudug iyo Gobolka Bari sidoo kale waxaa iyana ku soo darsamay goboladii waqooyi ee iyaguna isla sanadkaas xornimada qaatay waxayna ku soo darsadeen koonfurta labadii gobol ee xiligaasi gobolada waqooyi la’isku oran jiray, ee gobolka Waqooyi, Galbeed io gobolka Togdheer waxana ay isku noqdeen goboladii jamhuuriyadda sideeda gobol, markii uu kacaankii milatariga ahaa dalka Qabsaday ee la qaaday ololihii horumarinta reer miyiga ee sanadii 1973dii ilaa 1974tii xiligaasoo ay timid baahi ween oo ahayd in la magacaabo gobolo kale markaas waxaa sideedii gobol lagu kordhiyay todobo kale waxayna tirada gobolada dalka noqdeen shan iyo toban gobol Bilowgii sanadii 1980kii waxaa lagu kordhiyay gobolka Jubada dhexe, dabayaaqadii sideetameeyadii ayaa iyana la magacaabay gobolada Sool iyo Awdal xiligaasoo tirada gobolada dalku noqdeen sideed iyo toban gobol.
+
+
+Kheyraadka Dabiiciga ee Soomaaliya.
+Dalkeena waxa uu leeyahay kheyraad fara badan oo aanan halkaan ku soo koobi karin waxaasa ka mid ah kheyraadka dalkeena laga helo:
+Xoolaha la dhaqdo kuwaasoo loo qeybiyo afar qeybood kalana ah Geela Lo’da oo iyagu la’isku yiraaho Ishkin, Idaha iyo Eriga hadii aynu eegno magacyada loogu kala yeero noocyada xoolaha ayaa waxa ay kala yihiin:
+1. Geela kan lab waxaa loogu yeeraa Rati kan dhadigna Hal marka ay yaryaryihiina waxaa la yiraahdaa Nirig iyo Qurbac.
+2. Lo’da neefka lab waxaa loogu yeeraa Dibi kan dhadigana Sac marka ay yaryaryihiina waxaa loogu yeeraa Wayl iyo Wayl ama Aalo.
+3. Riyo riyaha neefka Lab waxaa lagu magacaabaa Orgi kan dhadigna waxaa lagu magacaabaa Ri marka ay yaryaryihiina waxaa lagu magacaabaa Waxar iyo Waxar ama Maqal.
+4. Ido idaha neefka lab waxaa la yiraahdaa Wan (Sumal) kan dhedigana waxaa la yirahdaa Lax (Sabeen) marka ay yaryaryihina Nayl ama Baraar."
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button41"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="280dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="10dp"
+        android:text="booga xiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+</android.support.constraint.ConstraintLayout>

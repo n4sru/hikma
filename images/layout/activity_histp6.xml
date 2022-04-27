@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".histp6">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="72dp"
+        android:layout_marginBottom="5dp"
+        android:text="Marco Polo iyo Muqdisho "
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="30sp"
+        android:typeface="normal"
+        app:fontFamily="serif"
+        app:layout_constraintBottom_toTopOf="@+id/scrollViewchp2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="371dp"
+        android:layout_height="387dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.619">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Qeybtii 6-aad
+Booqashadii Marco Polo Ee Muqdisho
+Sanadkii 1292 Miilaadiyada waxaa magaalada Muqdisho booqasho ku yimid bad-mareen caan ahaa oo la oron jiray Marco Polo una dhashay dalka Talyaaniga oo markii dambana dalkiisu ka mid noqday gumeystayaashii kala xukumayey Soomaaliya.
+Marco Polo wuxuu ka mid ahaa indheergaradkii qarnigii 13-aad ee Miilaadiyada, wuxuuna Muqdisho soo maray isagoo ka soo laabtay jasiiradda Madagaskar.
+Ninkaas Talyaaniga ahaa markii uu safarka ku maray magaalada Muqdisho wuxuu tilmaamo ka bixiyey dadkii xilligaa ku noolaa isagoo sheegay in dadka Soomaalida ahi ay hodon ku ahaayeen dharka laga sameeyo suufka.
+Wuxuu kaloo sheegay Marko Polo in dalka Soomaaliya xilligaas si weyn looga helayey maqaarada Geella, Lo?da, Ariga iyo kuwo kale oo markaas loo dhoofin jiray dalal dibadda ah.
+Milkiilayaasha Doomihii Hindida ee mari jiray Badweynta Hindiya ayaa Marco Polo tilmaan dheer ka siiyey Bariga Afrika, iyagoo Fangartii Muqdisho ku magacaabay Madagaskar, waxayna ka mid dhigeen jasiirad ku taala waqooyiga Sanjibaar.
+Waxaa Marco Polo kaddib yimid nin lagu magacaabi jiray Marten Beham sanadkii 1491-dii Miilaadiyada, iyadoo Sawir qaade xagga Juquraafiga ah oo la socday Marten Beham uu ku tilmaamay Muqdisho isla magaca Jasiiradda Madagaskar.
+Soomaaliya Iyo La Macaamilitaankeedii Shiinaha
+Horaantii sanadkii 1400 ee Miilaadiyada ayey Soomaaliya macaamil la gashay Imbiraadooriyaddi Shiinaha oo jirtay inta u dhaxaysay sanadihii 1402 ilaa 1425.
+Imbiraadooriyaddaas waxaa madax u ahaan jiray Manji Lou, wuxuuna Xeebaha Afrika u soo diray sarkaal la oran jiray Shanji Hou.
+Sarkaas ay soo dirtay Imbilaadooriyaddii Shiinaha wuxuu u yimid Xeebaha Afrika in shacabkeedu hoos yimaadaan isla markaana ay canshuur ka uruuriyaan.
+Shanji Hou meelihii uu Soomaaliya ka booqday waxaa ka mid ahaa dhulalka Puntland, Muqdisho, Baraawe iyo deegaanada Jubbooyinka.
+Sarkaalkaas la oran jiray Shanji Hou wuxuu sheegay in badeecooyinkii Soomaalidu soo saari jiray xilligaas ay ka mid ahaayeen Luubaanta iyo maqaarka Shabeelka.
+Wuxuu kaloo sheegay sarkaalkaasi in ciidamada ay lahaayeen Soomaalidu lagu tababari jiray ganitaanka gamuunaha.
+Taariikhyahanadu si weyn uga sheekeyn in Soomaalidu xilligaas ay Canshuurta u diiddeen Imbiraadooriyaddii Shiinaha iyo in kale.
+Socdaalkii Vasco De Gama Ee Banaadir.
+Sanadkii 906-da ee Hijriyada kuna beegneyd sanadkii 1499 Miilaadiyada waxaa magaalada Muqdisho soo gaaray Amiir la oron jiray Vasco De Gama oo u dhashay dalka Burtaqiiska ee Qaaradda Yurub.
+Vasco De Gama wuxuu watay lix Markab oo ahaa nooca shiraaca ku socda, wuxuuna soo gaaray magaalada Muqdisho oo xilligaas ka hor la aasaasay.
+Magaalada Muqdisho ka hor inta aan Portaqiisku qabsan waxay ahayd magaalo maamulkeedu hoosyimaado 12 oday dhaqameed, isla markaana lahaa awood aad u ballaaran.
+Sanadkii 925-kii Hijriyada kuna beegneyd sanadkii 1506-dii Miilaadiyada ayaa niman la kala oron jiray. Lourenco Ravasco iyo Albouquerque ay isku dayeen in ay xukunkii Burtaqiiska kala wareegaan magaalada Muqdisho isla markaana gacanta ku dhigaan.
+Isku daygii labadaasi nin wuxuu fashilmay kumana guuleysan hamigoodii ahaa qabsashada Muqdisho.
+Isla sanadkaas waxaa ku soo qulqulayey Xeebaha Afrika gaar ahaan Bariga Maraakiib waaweyn oo uu lahaa dalka Purtaqiiska, kuwaas oo uu horkacayey sarkaal la oron jiray Raakunhaa.
+Maraakiibtaas ku soo qul qulayey Xeebaha bariga Afrika ee uu lahaa Burtaqiisku waxay ku soo xiranayeen magaalooyinka Muqdisho iyo Baraawe, iyadoo nasiibka magaalada Baraawana uu noqday in Burtaqiisku qabsadaa dabadeedna bililiqo kula kacaan.
+Soomaaliya ayaa xilligaas waxaa sii kordhay istiraatijiyadeeda, iyadoo noqotay goob aad muhiim ugu ah awoodihii ku tartamayey gumeysiga Afrikaanka.
+ "
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton19"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="74dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageButton9"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/nxt" />
+
+</android.support.constraint.ConstraintLayout>

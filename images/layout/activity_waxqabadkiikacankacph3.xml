@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".waxqabadkiikacankacph3">
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="432dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/textViewchp2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Inkastoo Xukun walba haddii uu dheeraado uu yeelanayaa dhaliilo balse haddi aan wax ka timaano Waxqabadkii Kacaanka,Dalka wuxuu ku tallaabsaday horumar dhaqan, dhaqaale dhan kasta leh, waxayna taasi keentay in Soomaaliya noqoto dal sharaf iyo Karaamo ku dhex leh caalamka gaar ahaan dalalkii Afrika, haybadaasi Kacaanka horseeday darteed waxaa Soomaaliya loo doortay in ay marti geliso bishii Juunyo 1974-kii shirkii Midowga Afrika oo Muqdisho ka dhacay xiligaasi, waxaana Guddoomiye sanadeed loo doortay Jaalle Siyaad Aabihii Kacaanka, Muddadii uu hayay xilka Midowga Afrika Jaalle Siyaad si cad ayuu ugu soo dhalaalay, wuxuuna nabad ka dhex dhaliyay dalalkii Ugandha iyo Tansaaniya colaadii dhex tiilay, dadaalkii Kacaanka wuxuu gaaray in heer Afrikaan iyo Carab u gudbo, wuxuuna u gudbay Aasiya, 1971-kii Mashaqadii ka dhex aloosneed Pakistaan iyo Bengaladhesh, waxayna Soomaaliya ku guuleysatay in Guddi Madax looga dhigay Soomaaliya in ay abuurto Labo dal oo walaaltinimo ku wada noolaado Pakistaan iyo Bangaladhesh, taasoo keentay in Madaxweynihii u horeeyay ee Bangaladhesh soo saaro amar ahaa in qof wata Baasaboorka Soomaaliga in dalkiisa ku soo geli karo kuna joogi karo Viiso la’aan.
+Marka laga soo tago arrimaha dibada Hadafka Kacaanku wuxuu ahaa in la abuuro bulsho ka tayo wanaagsan dadyowga kale ee dalalka Afrika, kana tashato awoodeeda si meesha looga saaro ku tiirsanaanta kaalmada shisheeye
+Guulihii ugu muhiimsanaa ee Kacaanka lagu xasuusan yahay waxaa ka mid ah 21-kii Janaayo 1973-kii waa maalin ku weyn shacabka Soomaaliyeed taariikhdana baal dahab ka gashay, waa maalintii la hirgeliyay qorista Far-Soomaaliga, waxaana Kacaankii ka hor wax lagu qori jiray laguna baran jiray Carabi, Ingiriis iyo Talyaani, waxaana bulshada la tusay in ku hadalka luuqadaha shisheeye iyo cilmiga kala duwan tahay, af qalaadna aqoonta aheyn.
+Ka hor Kacaanka waxay dadka dhib ku qabaan aqoonta iyo waxbarashada, wuxuuna furay wado qof kasta oo Soomaaliyeed fursad u siineyso in uu wax barto, ilaa baadiyana la gaarsiiyo aqoonta lagu baranayo afkeena hooyo, wuxuu dejiyay manaahij tayo leh, waxaana abuurmay Jaamacaddii Ummadda ee kacaanka aas aasay, taasoo ka koobneed 15 Kulliyadood, ardaydii ka qalab jibisayna maanta dadkooda iyo dalkooda wax ugu qabtay wixii ay ka barteen Kacaanka.
+Kacaanka wuxuu aad ugu dadaalay horumarinta daryeelka bulshada gaar ahaan dhinaca Caafimaadka, wuxuuna halku dhig ugu dhigay ololaha caafimaadka haddii caafimaad aan jirin nolol ma jirto, waxaana tallaabada kooweed ay noqotay in dadka laga wacyigeliyo waxyaabaha keeni karo caafimaad xumada, (Inta wasaqdu kuu jirto ayaa cudurku kuu jiraa) waxaana degmo kasta laga furay goobaha lagu"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

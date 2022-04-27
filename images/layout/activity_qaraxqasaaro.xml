@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".qaraxqasaaro">
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.Holo.ScrollView"
+        android:layout_width="400dp"
+        android:layout_height="451dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Weerarkii Hotel Shamo
+
+Kadib markii ay urur dimeedyo uu kasoo dhax baxay dagaladii ka biloowday dalkeena somaalia 1991dii, waxaa kale oo dalkeena lagu arkay wax horay aan laga aqoon, waxaasne oo ahaa qof isku soo rakibayo walxaha qarxa oo kadibna naftiisa ku haligayo meesha looso diro. Ismadiminta oo ahaayd wax horay Soomalia looga aqoon ayaa aad oogu soo badatay sanadadii labada kun, kadib marka ay soo baxeen urur dimeedyada. Waxaana dhacay weeraro oo ismiidaamin ah oo la soo koobi karin sidii ay u bilaawatay ila iyo hada. Weeraradaa oo loola beegsaday askarta dowlada iyo kuwa ajaanabiga ah ee AMISOM, xarumaha dowlada iyo Hoteelo. Waxaana dhacda in ay marar badan ay wax kasoo garaan shacab iyo rayid oo waxna geeysanin oo lakiin ku ag dhawaa meesha oo qaraaxa ka dhacayo. Dadkaas oo u badan kuwo meesha agaagarka ku ganacsado ama dagan amaba meesha iska marayaan. Dhibaatooyinka ay shacabka kasoo gareen qaraxyadaas waxay ahayeen kuwo aad u xanuun badan. Waa wax aadan filaneeynin mar un jugtiisa ku dileeysa ama ku dhawacaaysa hadii aad ka badbaado labaduna waxaa qofka ku dhacayo naxdin aad u weeyn, naxdiintaas oo kow ah in aad nafsadaada u naxdid, iyo aragtiida aad arkeeysa dad badan oo dhuulka yaalo, qaaylada meesha ka dhacaaysa iyo ilmo ama wayeel wax geeysanin oo dhibka soo garay. Tasina waxaa ay keenta in qofka uu qaado cudurada dhimirta.
+
+Weeraradaa qaabka Ismadiimta ah waxaa aad u xasuusana labo qarax oo aad u murugo badnayeen ayada oo kuwa kale xitaa murugadooda yareen ayaa labadaan noqdeen kuwo naxdin iyo argagax dad badan ku abuurtay. Labadaan qarax oo kala ahaa Weerarki Hotel Shamo iyo Qaraxi Zobe.
+
+Hotel Shamo waxaa la weeraray bisha marki ahayd 3da Disember 2009kii. Weerarkan waxaa ku dhintay 25 qof, oo sadaxna kamid ahayeen wasiiro dowladii kumeelgaarka barigaas jirtay. Waxaa kale ku dhaawacmay kabadan 60 qofood. Qaraxaani wuxuu ka dhacay gudaha hotelka ayaado oo socoto xaflad khalin jabin oo loo sameeynayey arday dhaqaatirnimo ka soo baratay jaamacada Benadir university. Waxaa la sheegey qofka Ismiidaminta fuliyey in oo ahaa qof xiran dharka dumarka sida laga soo weriyey wasiirkii isgaarsinta oo xagaasi ku sugnaa. Sida dad goobjogayaal ahna laga soo weriyey waxaa uu qaraxa dhacay kadib marka ay dhamaatay khudbad markaasi socotay.
+
+Khasaaro
+
+Khaasaraha qaraxa ka dhasay wuxuu ahaa dhimasho 25 qof, dhaawac in kabadan 60 qof. Badanka intii meesha ku dhimatayna waxaa ay u badnayeen ardaydii khalinjabineeysay. Waxaaso kale ku jiray labo dhaqatiir, sadax wariye iyo sadax wasiir. Dadka kale oo meesha joogayma waxaa ay kamid ahayeen eheleda ardayda khalinjabineeysay iyo asxabtood.
+
+Qaraxii kadib
+
+Qaraxii kadib qof sheegatay masuuliyada qaraxa muusan jirin, lakiinse madaxweeynihi waqtigaas joogey ee Sharif Sheikh Axmed waxaa uu ku eedeyey ururka Al Shabaab in ay ka dambeeysay weerarkaasi oo khasaarihiisa aadka u weeyna. Waxaase dhacay in wargeeys kasoo baxa dalka Danmark uu soo qoray qofkii Ismaadaminayey uu ahaa muwadin Danmark ah oo da'diiso aheeyd 23 jir. soomali badana murugo iyo naxdin ayaa ku abuurantay sida xasuuqa loola kacay xita mustaqbalka dadka iyo dalkeena. Waxaay tani u ekaatay in soomalia looba rabin in dadkooda wax ay bartaan ayna dalkooda wax oogu khabtaan. Cadowga dadka iyo dalka somaliyeedna meel walbo uu inaga soo weerayo.
+
+Qaraxi Zobe
+
+Qaraxii Zoobe waa qarax asagana murugo lasoo koobi karin ku abuuray khuluubta umada somaliyeed. Wuxuu ahaa mid naxdin badan nagu abuuray oona waligii aan ilaabi doonin. Ilahay dadkeena somaliyeed khulubtooda iyo midnimadooda haa xoojiyo. Weerarkaan lagu soo qaaday umada somaliyeed malintaasi wuxuu kamid ahaa kuwoodi ogu xumaa oo waligeen nasoo maraa. Tarikhda Soomaaliya waligeed meeysan dhicin qarax iyo weerar intaas la eg oo halmar intaas oo naf uu qaadaa.
+Maalinti qaraxii Zoobe dhacay waxaa ay inoo noqotay maalin aad iyo aad nagu madow, maalin weerar lagu soo qaaday dadkeena waliba kuwooda oogu maskiinsan, kuwooda waxna galafsan, hooyoyinkeena abahayasheena iyo ciyalkooda. Malintaan waa malin ciyaal badani ay agoon noqdeen qoysas badana wiilashoodi iyo gabdhahoodi osuu sheqaynayay laga dilay.
+
+Qaraxaan wuxuu dhacay Oktoobar 14keedi sanadkii 2017di uuna ka dhacay magaalada Moqdisho. Wuxuu ahaa qarax baxaad aad u weeyn lahaa, waxaana qaraxaasi sababay qof naftiisa hure ahaa oo waday gaari weeyn oo xamuul ah, garigaasi oo si aad iyo aad looga soo buxshay walxaha qarxa. Waxaa meesha ku shahiiday dad wax galafsanin oo tiradooda gareeysay oogu yaraan 587 qof, ayada oo xitaa dad kale oo badan geeri iyo nolol lagu sheegi karin sabaabto ah in loo badinayo in jirkooda ku tirtirmay jugtii iyo holacii ka dhashay qaraxa. Waxaa la sheegey in kuleelka qaraxa ka dhashay laga dareemi karay ila meel gareeysa 100 mitir. Waxaa ku dhaawacmay dad gaaraya 316 qof. Ilaa 160 qof ayaa lasoo aqoonsan waayay dhib kasoo garaay qaraxaas awgiis, isbitaaladana waa ay buux dhafeen malintaas.
+
+Waqtiga uu weerarkaan lagu qaadiyay dadka oosan waxna galafsanin waxaa ay ahaayd waqti dad badan ay ku maqnayeen howlahooda shaqo, isgooyska zoobana uu aad iyo aad u mashqulsana, hadii ay ahaato gadiid amaba dad. Qaraxaan wuxuu ahaa kii abad oogu darnaa oo soo maro tarikhda Soomaaliya iyo kan oogu dhimashada badnaa ee qaarada Afrika.
+Waxaa jiray dad badan oo wareeysi qiro leh laga qaaday. Waxaan kasoo xiginay wareeysigan wargeeyska Goobjoog.com oo wareeysi ka qaadan dad qaar oo eheladoodi ku waayey qaraxii Zoobe.
+
+Goobjoog News ayaa warbixintan ku eegi-doonta dadkii wax ku noqday qaar ka mid ah, innaga oo la kulanay ehaladooda, lana sheekeysanay, si ay wax uga sheegaan.
+Qoraalkan hoose waxaa laga sameeyay Ganacasade, Caruur, Ardey iyo Saxafi goobta qaraxa ku dhintay, isku shaqo ma aheen, isma aqoon laakin qaraxa ayey ku dhinteen.
+Axmed Cabdikarim Ciyow:
+Marxuum Axmed Ciyow oo ka mid ahaa dadkii ku dhintay qaraxii Zoobe waxaa uu ka yimid dalka Mareykanka, keliya 4 saac ayuu joogay Muqdisho, Hotel Safaari ayuu degay, waxaa uu ahaa 50 jir.
+Maxamed Daahir Faarax oo ay saxiibo ahaayeen ayaa Goobjoog News u sheegay in uu dalka u yimid sababo la xiriira in uu ganacsi ka sameysto, laakin waxaa uu ku dhintay qolkiisa.
+Marxuumka intii Mareykanka joogay waxaa uu ka qalin-jabiyay Metropolitan State University, waxaa uu lahaa xaas iyo 3 caruur ah.
+Marxuum Cali Nuur Oo VOA Sawir-qaade u ahaa Ayaa Ku Dhintay Qaraxa Zoobe.
+Bakar waxaa Cali Nuur walaalkii, waxaa uu Goobjoog News uga sheekeeyay markii ugu war dambeysay iyo noloshiisa sida ay aheyd qaraxa ka hor.
+“ Waaga markuu baryey gurigiisa wuu ka soo tagey,  wuxuu yimid shaqadiisii ku meel gaarka aheyd ee xafiiskii VOA ay ku la heyd KM5 dhismaha Bisha Cas, meeshuu yimid halkaasuu ka shaqeynaayey Filim uu ka soo duubay magaalada oo VOA uu u diyaarinayey shaqadii isaga oo wato ayuu soo baxay meel maqaayada ayaan is kugu nimid, maqaayad ayaan ka qadeynay sideed saac iyo rubi markaay tahay waan qadeynay waan kala tagnay markaas ayaa is kugu keen dambeysay .
+Maqaayadda markaan ka qadeynay shaqadiisa ayuu u laabtay aniga shaqeyda kale ayaan iska raacday,  maray aheyd sagaal saac iyo labo iyo toban daqiiqo ayaan waxaan maqlay jug weyn ugu horreyn qofkii ugu horreeyay oo aan waco isaga ayuu ahaa nambarkiisa markaan wacana jaam ayaan ka arkay saan u raadinaayey xiriirkiisa iyo cid waliba u raadineysay,  waxaan ogaanay in Cali Nuur uu ku dhintay xafiiska uu ka shaqeynaayey ee VOA ka deganeyd dhismaha bisha cas KM5 Zoope.
+Waxaa uu ahaa Cameroman oo kaamiro ku shaqeysto wuxuu la shaqeynaayey mid ka mid ah shaqaalaha VOA yarka walaalkey ah qaabkaas ayuu u dhinty.
+Wuxuu aad u jeclaa kaamiro maan iyo saxaafadda ayuu aad u jeclaa,  wuxuu noqday kaamiro maan dhowr filimo oo uu soo duubay xitaa waan arkay anigu oo uu u diray VOA,  wuxuu aad u jeclaa saxaafadda, howshii wuu helay si ku meel gaar ah ayuu ula shaqeynaayey VOA waxaa la yiri mardhow ayaa si sharci ah laguu shaqaaleysiin doonaa.
+Waxaa uu lahaa xaas waxaa uuna dhalay saddex caruur ah labo gabdhood iyo halwiil hal gabar way ka saqiirtay hadda waxaa u jooga hal will iyo hal gabar”.
+Aabo Cumar Xaaji Maxamed Oo Labo Caruur Ah Ku Waayey Qaraxii Zoobe:
+Aabo Cumar waxaa uu meherad ku lahaa isgoyska Zoobe, waxaa xilliga uu qaraxa dhacayey gadayey labo caruurtiisa ah oo kala ah: Bashiir iyo Maryan, labadaba waa lagu waayey nolol iyo geeri
+Aabo Cumar waxaa uu Goobjoog News uga waramay arrinta sida ay u dhacday“ alxamdulillaahi dhibaatadu waxay aheyd mid guud ma aheyn mid gaar ah oo wadanka dhan ayey masiibadu ku dhacday aniga waxaan ahaa in kastoo naafo ahay,  hadana waxay ahay nin shaqeysan jiray ma aheyn nin fiiriya gacmaha bani’aadanka nin shaqeysto oo ilmihiisana u shaqeeyo reerkiisana u shaqeeyo ayaan ahaa .
+Ilmaha iskuulaad ayey dhigan jireen qaarkood hadda ayey dhigtaan dugsiyada jaamacado qaar ayaa ii dhigto waxaan ahaa nin reerka dhan iyo baahiyadooda ilaahey la kaashto oo isku kalsoon ayaan ahaa.
+Ilmaha kuwo lixaadkooda waa taam kuwana waa naafo aniga ayey iraaceen marka kuwii kuwa lixaadkooda taamka ahaa gabar iyo wiil ayey ahaayen waxayna dhigan jireen iskuul meeshii ayey qadartii ku qabsatay.
+Aroortii ayey waxay I keeni jireen markaan soo wada quraacano meesha maheradda oo sandaqad aheyd iina saarnaa nuucyada kala duwan ee bagaashka sandaqadda waa aay kobocday Viiga caruurta halkaasi ayaan ka bixin jiray.
+Maalintii sabtida aheyd waxaa dhacday meeshii ayey iigu yimaadeen waa ay ibadaleen guriga ayaan aaday markii ay tahay casirkii ayaan waxaa maqlay qarax anigoo gurigii joogo markii aan meeshii fiiriyana waa isgoyska Zoope,  gabadhii iyo wiilkii raq iyo ruuq waa la waayey waxaa loo badinayaa inay geeriyoodeen”.
+Marxuum Maryan Cabdullahi Maxamed Waxaa Ay Ku Dhimatay Qaraxa Zoobe Maalin Ka Hor Qalin-jabinteeda
+Anfac Cabdullahi Maxamed oo ah Maryan walaasheed waxaa ay Goobjoog News uga warantay walaasheed iyo rajadeeda.
+“Magaceygu waan Anafac Cabdullahi Maxamed waxaan ahay walaasha Dr. Maryan Cabdullahi Maxamed oo ka mid aheyd dadkii ku dhintay 14 Oktober qarixii ka dhacay isgoyska Zoope, geerideeda waxay aheyd mid aad u xanuun badan markii si loo fiiriyo dadka waxay dareemayaan hal xanuun badanaa laakiin ani waxaan dareemayaa labo xanuun o ah inay maryan iga baxday oo aheyd walaasheen oo aad noo caawin jirtay iyo xanuun kale oo aan lawadaago dhammaan umadda Soomaaliyeed sidii uu u xanuujiy qaraxa.
+Maryan geerideeda qoys ahaan waa aay nasaameysay,  maxaa yeelay waxay aheyd gabadha kaliya oo hadda qalin jabineysay aabahey wali gabadhiisa oo qalin jabineyso ama ilmo uu dhalay oo qalin jabinayo ma uusan arag.
+Maryan waxay aheyd gabdha kaliya oo uu aabe rajeynaayey inuu qalin jabinteeda uu ka qeyb galo,  waxayna xafladeeda ay ku aadaneyd 24 tanka bishaan iyadoo dhameysay kulyaada caafimaadka .
+Maryan walaaltinimada ka sokow waxay aheyd saaxiibtey aad iigu dhow waxyaabaha aan kawada sheekeysan jirnay waxay aheyd maadaama aan isku takhasusu aan baraneynay waxyaabaha aan ka sheekeysan jirnay waxaa ka mid ahaa sidii aan u horomarin laheyn caafimaadka bulshada gaar ahaan hooyada .
+Aabe Cabdullahi oo Maryan aabaheed ah.
+“Maryan waxay tiigsaneysay iney gaarto hadafkeeda oo ahaa waxbarashada oo ahaa inay ku soo baxdo dhaqtar buuxa reerka Anfacda iyadana  is anfacda umadda Soomaaliyeedna anfacda marka si ay taas ku gaarto ayey iga codsatay inaan garab istaago gool ayaan ka gaarnay aniga iyo iyadaba tii ilaahey ayaa timid.
+Aniga markaay wax dhacayeen waxan joogay waddanka Ingiriiska gaar ahaan garoonka socod ayaan ku soo jiray aniga oo aheyd ballanteeda inaan ka soo qeyb galo xafladda, waxaa la ii sheegayin Maryamo Cabdullaahi ay ku jirto dadka dhintay ka dibna sideedii subaxnimo maalintii axadda ayaa soo dagay meedkana aan wax ka aasay”.
+Maryan Hooyadeed ayaa iyadaha nala hadashay:
+“Maryan waxay aheyd qof wanaagsan oo ilaahey jacelyahay deriska uu jecelyahay inta bulsho la soo macaamishay qof aad loo jecelyahay ayey aheyd.
+Qof walba oo la jecelyahay ilaahey ayaa naga jecel alxamdullilaahi qof ahlo qeyara oo ahlu sharafa ayey ahyed diinta ixtiraamka waalidka qof ilaahey siiyey ayey aheyd”.
+Waxaa dhacday in ay dad badan ay usoo gurmadaan dadka wax ku yeeloday qaraxa, umada Somaliyeed meel kasta ay calamka ka joogan ayaa waxaa ay dadka ku caawiyeen wax kasta ay awoodaan, Madaxweeynaha dalka ee Maxamed Cabdullahi Farmaajo ayaa ka mid ahaa dadkii dhiig oogu deeqay hosbitalada Moqdisho si loo kalmeeyo dhawacyada. Turkiga oo ah wadan walaalo dacaadnimo ka muuqatana waxaa usoo gaarsiyey gargaar cafimaad iyo dhaqatar Magaalada Moqdisho si u oga qaybkhaato gurmadka loo gurmanayey dhawacyada faraha badnaa, kuwa dalka gudihiisa wax looga qaban kari waayeyna waxaa uu u qaaday dalkiisa Turkiga si halkaas ay ooga heelan daryeel caafimad. Qof sheekatay masuulyada weerarkan meeysan jirin.
+Ila hada waxaa jira dagaalo kadhaxeeyo Xarakaada Al shabaab iyo Dowlada Somalia, taasina runtii mar waliba waxaa uu dhibka ku soo noqonaya waa dadkeena oo u egtahay in loo rabin nasasho iyo nabab. Dalkeena ilahay meel fiican ayuu naga siyey barwaaqo iyo wax dalalkale badan aynan heeysanin wuuna siyey. Khilaafna qori bas laguma xaaliyo boqolaal qaab oo kale waa ay jiraan. Waxaana in sha Allah uu duceeyneyna dadkeena nooga shahiiday qaraxyadii iyo dagaladii lagu dilay kuweena wax geeysanin, waxaana rajeeyneeyna in Ilaahay qulubteena isku keena danteena iyo dalkeenana aan uso jeedsano."
+                android:textAppearance="@android:style/TextAppearance.Holo.Small"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="193dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button35"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="280dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="9dp"
+        android:text="Booga Xiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+</android.support.constraint.ConstraintLayout>

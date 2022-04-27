@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".juqrafi3">
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="450dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent">
+
+            android:orientation="vertical" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Dalagyada Soomaalidu Beerato ayaa waxa ay yihiin dalagyo aad u wanaagsan isla markaana aan ka bixin wadamada africa qaarkood waxana shaxda hoos ku qoran ay muujinaysaa magaca dalaga iyo inta uu ku bislaado:
+Magaca
+inta ay ku bislaato
+Galayda
+90 beri
+Masagada
+90beri
+Sisinta
+90beri
+Muuska
+180beri
+Digirta
+80beri
+Yaanyada
+80beri
+Babayga
+90beri
+Bataatiga
+180
+Lowska
+120
+Canbaha
+6sano
+Wax soo saarka Badda dalkeena Soomaaliya waxa uu leeyahay labo badood oo kala ah Badda Cas iyo Badweynta Hindiya waana dal ay dhamaantiis ku dharersantahay Bad laga soo biloobo Cirifka Koonfureed ee Raaskambooni ilaa Cirifka Waqooyi ee Raascaseyr, magaalooyinka dhaca xeebaha waxaa ugu caansan saylac, berbera, caluula, boosaaso, iskushuban bandarbayla, hobyo ,muqdisho, marka ,baraawe, kismaayo
+Wabiyada dalkeena Dalkan Soomaaliya waxaa mara labo wabi oo kala ah Jubba iyo Shabele waxayna ka yimaadaan dalka Itoobiya waxaana ugu dheer Webiga Shabele oo dhererkiisu uu gaarayo 1500km, waxaase ugu weyn uguna biyo badan webiga Jubba oo dhererkiisu uu gaarayo 800km.
+magaalooyinka ay dalka ka maraan hadaan soo qaadano webiga Shabele wuxuu dalka ka soo galaa xadka uu gobolka Hiiraan la leeyahay dalka Itoobiya meel u dhow magaalada Feer-feer wuxuuna soo maraa magaalyooyinka Beledweyne, Buuloburte, Jowhar, Balcad, Agooye, Jannaale wuxuuna ku dhamaadaa meesha la yiraahdo Dhaytubaako oo u dhexeysa Jilib iyo Shalaanbood, Wabiga Jubba isagu waxa uu dalka ka so galaa Xuduuda uu gobolka Gedo la leeyahay dalka Itoobiya wuxuuna soo maraa magaalooyinka Doolow Luuq Baardheere Bu’aale Jilib, Mareerey Kabsuuma iyo Jamaame wuxuuna ku dhamaadaa oo uu badda kaga darsoomaa meesha la yiraahdo Goobweyn oo Kismaayo u jirta 25km.Waxaa kale dalkeena u dheer saliid oo la sheegey in lagala heley oona dhaqaalo farabadan laga helo hadii si saxsan loo isticmaalo dhaqalahaas."
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button42"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="280dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="9dp"
+        android:text="booga xiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+</android.support.constraint.ConstraintLayout>

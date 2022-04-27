@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".histprt3">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="72dp"
+        android:layout_marginBottom="5dp"
+        android:text="Yaa Garta U Goyn Jiray Soomaalidii Hore?"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="30sp"
+        android:typeface="normal"
+        app:fontFamily="serif"
+        app:layout_constraintBottom_toTopOf="@+id/scrollViewchp2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="371dp"
+        android:layout_height="387dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.619">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=" Soomaaliya markii ay soo dageen dadyowga Carbeed ee ka yimid Jaziiradda Carabta waxay saameyn ku yeesheen magaalooyinka Xeebaha ah oo ugu badnaa meelaha ay dageen, sidaas darteed ayey Soomaalidu maadaama ay yihiin dad Muslim ah waxa ay qaateen madaahibta fiqhiga ee Islaamka.
+Shariif Caydaruus oo ka mid ah raga wax ka qoray Taariikhda Soomaalida waxa uu leeyahay: Soomaalidu waxa ay waqti hore qaateen madaahibta shaaficiyada iyo xanbaliyada, iyadoo qaar ka imid ahna ay kala haystaan madaahibta maalikiyada iyo xanafyada.
+Yaa Garta U Goyn Jiray Soomaalidii Hore?
+Waxay sheegeen taariikhyahanadu in Soomaalidu ay xilliyadoodii hore ahaayeen dad kooxo kooxo ama qeybo qeybo ah, isla markaana aan lahayn Suldaan, balse waxay qolo walba lahaan jirtay Sheekh kaasoo ay ka amar qaataan.
+Wax kasta oo dhaca waxaa loola laaban jiray Sheekha qoladu ay leedahay, waxaana wadaadada xilligaas loo arki jiray kuwa ugu horreeya bulshada, wax la sameyn jirayna ma jirin, iyadoo aan laga amar qaadan.
+Xittaa marka ay dad ganacsato ahi dibadaha ka yimaadaan waxaa qasab ahayd in marka hore ay ku soo dagaan Sheekha deegaankaas looga dambeeyo, isla markaana uu uga warramo danaha uu u socdo, markaas kaddib ayuuna Ganacsadaha dibadda ka yimid uu howlihiisa qabsan jiray.
+Soomaalidu waxay ka mid ahaan jireen dadka caqiidada toosan ee Islaamka sida adag ugu dhagan, waxayna u safri jireen dhulalka baadiyaha ah iyo tuulooyinka fog fog iyagoo bilo maqnaanaya si ay u soo bartaan Diinta Islaamka, mana saameyn afkaarihii lagu faafinayey masiixiyadda ee lagula dagaalamayey Diinta Islaamka.
+Dadka Soomaalida ahi waxay dhulalkooda ka dhiseen masaajidyo fara badan iyadoo weligeedba magaalada Muqdisho ahaan jirtay magaalada ugu masaajidda badan dalka Soomaaliya.
+Masaajiddii waqtiyadii la soo dhaafay ku ooli jiray Muqdisho waxaa ka mid ahaa Masjiddu Nuurul Cayn, Masjiddu Sheekh Aweys,, Masjiddu Al-Nuur, Masjiddu Rowda, Masjiddu Raxma, Masjiddu Al-Riyad, Jaamacyadii Xamarweyne iyo Shangaani iyo Jaamaciii Marwaas.
+Magaalada Muqdisho marka masaajidka loo magacaabayo Sheekh khudbadda ka akhriya waxaa qasab ahayd in marka hore ay isku raacsan yihiin odayaasha qabaa?ilada ee xaafadda Masaajidku ku yaalo degan, waxayna ka hor inta uusan Masaajidka khudbadda ka bilaabin saari jireen 40-qadmo.
+Sanadkii 1337 Hijriyada ayaa waxaa Masaajid ku ooli jiray degmada Shangaani khilaaf ku dhexmaray qabiiladii Asharaafta iyo Aala-camuuddi oo xaafaddaas wada degnaan jiray, waxaana dhalatay in ay labo Masjid Salaadda Jimcaha ku kala oogaan iyadoo markii hore hal masjid oo kaliya Salaadda Jimcaha ku wada dukan jiray.
+Khilaafka dhexmaray labadaas beelood wuxuu socday muddo labo sano ah, waxaana 20-kii bishii Dulqacda sanadkii 1339-kii hijriyada, kuna beegnayd 1929-kii Miilaadiyada soo fara geliyey khilaafkooda dowladdii Talyaaniga ee xilligaas dalka gumeysaneysay.
+Xilligaas waxaa dowladda Hoose ee Muqdisho haystay nin Talyaani ah oo la oron jiray Carlo Ofoolyo, waxaana arrintii xalkeeda galay Talyaanigii iyo qabaa?iladii Soomaalida ee deganaa Muqdisho iyo Baadiyaheeda, iyadoo Culimaduna ay doorka ugu muhiimsan ka qaateen xalinta khilaafka labadaas dhinac.
+Waxay dhinacyadii dhex dhexaadintu ku guuleysteen in labadaasi beelood ee wada deganaa Shangaani ay Salaadda Jimcaha ku wada dukadaan Masaajidkii ay horey ugu wada dukan jireen, iyadoo khilaafkuna uu salka ku hayey Asharaafta oo isu arkayey in xaqiraadi uga imaaneyso dhinaca Reer Aala-camuudi.
+Shariif Caydaruus waxa uu sheegay in uu isagu helay nuqul ka mid ah heshiiskii lagu dhex dhexaadiyey labadaasi beelood isagoo tilmaamay in heshiiskaasi uu ku qornaa Afafka Carabiga iyo Talyaaniga isla markaana ay wada saxiixeen hoggaamiyeyaashii Asharaafta, Hoggaamiyeyaaha reer Al-Camuud, Culimadii dalka Soomaaliya ee xilligaas iyo Duubabkii heshiiskaasi gob jooga ka ahaa.
+ "
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton16"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="74dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageButton9"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/nxt" />
+
+</android.support.constraint.ConstraintLayout>

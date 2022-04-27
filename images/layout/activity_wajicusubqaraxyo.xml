@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Wajicusubqaraxyo">
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="401dp"
+        android:layout_height="451dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Urur dimeedyo soo baxay  Kadib markii dagaladii sokeeye oo si toos qabiil qabiil leeysku dileyey uu yaraaday waxaa uu yeeshey dagaladaas waji cusub markii la galay sanadadii labada kun. Umada Somaliyeed wali nasasho meeynan helin.Midowga Maxkamadaha Islaamiga waxeey ahaayeen urur rabay in ay Soomaaliya xukunkeeda la wareegan marka ay tariikhda u dhaxeesay 2006 ilaa 2007.Ururkaan waxaa hogaaminaayay Shiikh Shariif Shiikh Axmed oo madaxweyne ka noqday Dowladda federaalka soomaaliya.Caalamka waxeey ururkaan u aaminsanaayeen in oo ahaa mid la xiriira al-qaacida.2006di ururkaan waxoo maamulaayay dalka oo dhan. inta aan ka eheen labada maamul ee woqooyiga iyo meelo ka mid ah gobolka gedo.Dhamaadkii 2006 urukaan waxaa soo weeraray ciidamo ka socda dalka Itoobiya, Itoobiya oona leeys dhihi karo in ay u arkeen fursad ay Soomaliya ay ku soo galaan ayna dadkeena dhibka oogu si daraan. waxeeyna ku jabiyeen meelo ka mid ah gobolada Bay, Bakool iyo Hiiraan, waxeey kadib u carareen dhanka caasimada Muqdisho,Halkaas oo dagaal aad u xoogan ka dhacay, dad badan ayaa ku dhintay dagaaladaas iyo ciidamo farabadan oo ka mid ahaayeen kuwa itoobiyaanka iyo kuwa maxkamadaha islaamiga.Bilaawgii 2007 waxee u sii dhaqaaqeen dhanka gobolada jubooyinka.Halkaas oo looga dabatagay oo dagaal aad u b'an ka dhacay.Ururkaan waxoo isdhiibay 2007 markii dhulbadan laga qabsaday. Xisbiyo kale oo Diimi ku dagalaameyey waxaa kale oo jiray Xisbul Islaam, Ehlul Sunna waljameeca iyo kuwo ila iyo hadda dagaal wada oo ah Al Shabaab.   al-Shabaab magaca ay la baxday waa (Xarakada Mujaahidiinta al-Shabaab). Waxaa ay dhisantahay muddadii ka danbeysay sanadka marka uu ahaa 2003dii iyadoo ka soo dhex baxday xarakaat-kii Islaamiga ahaa ee waagaas ka hor dhismay sida Xarakada Islaax, Tajamuc al-Islaami iyo waliba xarakaatki takfiiriga ahaa ee markaa ka jiray qeybo ka mid ah wadanka Soomaaliya. Xarakaadkaan dhismay kadib burburkii Dawladda Dhexe ee Soomaaliya waxaa ay dhamaantood qabeen fikir ah in wadanku uu yeesho dowlad Islaami ah laakin shaqsiyaatka ku mideysan xarakaatkaas ayaa iyagu laf ahaantooda ku kala duwanaa sida lagu gaari karo dowlad Islaami ah oo ay Soomaaliya yeelato. Shaqsiyaadka qaar ayaa qabay in lagu gaari karo oo kaliya dowlad Islaami ah in la qaato qori oo lala dagaalo inta ka soo horjeeda taasoo dabcan ay kow ka ahaayeen. Hogaamiya kooxeedyadii ka jiray dalka Soomaaliya gaar ahaan Gobolada Koonfureed mudadi wixi ka danbeeyay burburki Xukuumaddii Siyaad Barre ilaa 2006dii. Halka shaqsiyaadka qaarna ay qabeen inaan dagaal wax lagu raadinin ee dadka laga saameeyo xaga dhaqaalaha iyo tacliinta taasoo runtii wax badan ka tartay inuu si sahlan ku faafo mabda'a xarakaatki markaas ka shaqeynayay dhanka tacliinta iyo dhaqaalaha. Kadib markii ay midoobeen Maxaakiimtii Islaamiga oo iyagu ka koobnaa shaqsiyaat kala duwan oo ku kala jirey xarakooyin kala duwan ayaa waxaa ay u sahlanaatay in ay qabsadaan inta badan Koofurta Soomaaliya waxaa la dhihi karaa inay qabsashadaas soo dedejisay ururki la magac baxay La-Dagaalanka Argagixisada iyo Soo-Celinta Nabada ee lagu dhisay xarunta Qanyare ee Degmada Dayniile 28dii, bishii 2aad 2006dii, taas oo dadka Soomaalida ah loo tusiyay in uu ururkaasi yahay mid qandaraas ku soo qaatey inuu baabi'iyo Islaamka. Waxaa ay ku soo shaac baxday baahidi dadka Soomaaliyeed gaar ahaan kuwa Koonfurta daga ay u qabeen in ay helaan nabad iyo amaan, taasoo sababtay in ay taageero buuxdo siiyaan Midowgii Maxaakiimta Islaamiga ee ka howl galayay Koonfurta Dalka sanadihii 2005tii ilaa 2006dii.   Weerarkii Hotel Shamo  Kadib markii ay urur dimeedyo uu kasoo dhax baxay dagaladii ka biloowday dalkeena somaalia 1991dii, waxaa kale oo dalkeena lagu arkay wax horay aan laga aqoon, waxaasne oo ahaa qof isku soo rakibayo walxaha qarxa oo kadibna naftiisa ku haligayo meesha looso diro. Ismadiminta oo ahaayd wax horay Soomalia looga aqoon ayaa aad oogu soo badatay sanadadii labada kun, kadib marka ay soo baxeen urur dimeedyada. Waxaana dhacay weeraro oo ismiidaamin ah oo la soo koobi karin sidii ay u bilaawatay ila iyo hada. Weeraradaa oo loola beegsaday askarta dowlada iyo kuwa ajaanabiga ah ee AMISOM, xarumaha dowlada iyo Hoteelo. Waxaana dhacda in ay marar badan ay wax kasoo garaan shacab iyo rayid oo waxna geeysanin oo lakiin ku ag dhawaa meesha oo qaraaxa ka dhacayo. Dadkaas oo u badan kuwo meesha agaagarka ku ganacsado ama dagan amaba meesha iska marayaan. Dhibaatooyinka ay shacabka kasoo gareen qaraxyadaas waxay ahayeen kuwo aad u xanuun badan. Waa wax aadan filaneeynin mar un jugtiisa ku dileeysa ama ku dhawacaaysa hadii aad ka badbaado labaduna waxaa qofka ku dhacayo naxdin aad u weeyn, naxdiintaas oo kow ah in aad nafsadaada u naxdid, iyo aragtiida aad arkeeysa dad badan oo dhuulka yaalo, qaaylada meesha ka dhacaaysa iyo ilmo ama wayeel wax geeysanin oo dhibka soo garay. Tasina waxaa ay keenta in qofka uu qaado cudurada dhimirta.  Weeraradaa qaabka Ismadiimta ah waxaa aad u xasuusana labo qarax oo aad u murugo badnayeen ayada oo kuwa kale xitaa murugadooda yareen ayaa labadaan noqdeen kuwo naxdin iyo argagax dad badan ku abuurtay. Labadaan qarax oo kala ahaa Weerarki Hotel Shamo iyo Qaraxi Zobe."
+                android:textAppearance="@android:style/TextAppearance.Holo.Small"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="193dp" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button37"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginLeft="269dp"
+        android:layout_marginRight="27dp"
+        android:layout_marginStart="269dp"
+        android:layout_marginTop="11dp"
+        android:text="Booga xiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+</android.support.constraint.ConstraintLayout>

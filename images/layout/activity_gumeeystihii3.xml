@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".gumeeystihii3"
+    tools:layout_editor_absoluteY="81dp">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="74dp"
+        android:text="Tariikhda Sayd Cabdulle Xassan"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="30sp"
+        android:typeface="normal"
+        app:fontFamily="serif"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="365dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent">
+
+            android:orientation="vertical" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Nin kale oo tariiqda somaliyeed si fiican u xusto waa Sayd Cabdille Xassan. Sayd Cabdille Xassan waxaa lagu xasuusta dagaalki socday muddo labaatan sanadood u kula jiray ingriiska,talyaaniga iyo Itoobiya oo kuligooda rabeen in ay ina gumeestaan. Sayidka waxaa u ahaa nin ku dhashay dhulka somaali galbeed waqtiga marku u ahaa qiyaas ahaan 1856, waxaa uuna geeriyoday 1920. Saydkana wuxuu ahaa kii aas aasay dowladii Darwiish. Waxaa la ilaabi karin dhibka iyo rafaadka u Sayidka oogu jiray si u difaaco dadka iyo dalka, jab badana uu gaarsiyeey gumeeystayaasha. Saydka marka ay garan wayeen sii looga xoog badsho waxaa ay gumeestaha bilaabeen in ay diyaarad ku rushayaan. taasina waxaa ay keentay in aynu noqono wadanka oogu horeeya afrika oo diyaarad lagu rusheeya.Halgamayaasha wadankeena soo maray waxaa ay ka koobnayeen rag iyo dumar oo labaduba ku jiray dal iyo dad jeceel. Waxaay u halgamayeen xornimadooda iyo dalkooga ay si nabad oogu nooladaan ayna la nooladaan dadkooda. Gabadh tariikhdeena bal weeyn ka qaadatay waxaa kamid ah Xaawo Cusmaan oo ku magac dheereed Xaawo Taako. Xaawo Taako waxaa ay ku dhalatay magaalada Muqdisho sanadkii 1925 qiyaas ahaan. Waxaayna ahaayd naag gesiyad ah oo necbaneeyd gumeeystaha dalkeena kusoo duulay. Xaawo oo ahaayd qof naafo ah oo lug ka dhutin jirtay maynan ka harin halgankii xoriyaad doonka ahaa, waxaayna mar walba ku mid ahaayd kuwo safka hore oogu jira banaan baxyada dhagaxtuurka ahaa ee lagu dalbanayay in gumeeysiga ka baxo wadanka. Xaawo waxaa ay ka qaayb gashay banaanbixii oogu dambeeyey sanadki 1948kii, banaanbaxaas ay dhagar qabayaasha gumeeysiga ay si arxaan daro ay rasaas oogu huuwiyeen. Halkaas ayayna Xaawo oo ilmo yar duudsan oo ay ayada dhashay ayaay oogu dhimatay. Geerida Xaawo Cusmaan wuxuu astaan u noqday midnimada umada Somaliyeed, wuxuuna dhiira gelin u noqday uruurkii SYL aad aqrisan doonta. Uruurkaas oo goolo weeyn usoo hooyay umada somaliyeed.
+"
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button30"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="296dp"
+        android:layout_marginStart="296dp"
+        android:layout_marginTop="10dp"
+        android:text="Booga xiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+    <Button
+        android:id="@+id/button31"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="208dp"
+        android:layout_marginRight="208dp"
+        android:layout_marginTop="10dp"
+        android:text="Dib u noqo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/button30"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+</android.support.constraint.ConstraintLayout>

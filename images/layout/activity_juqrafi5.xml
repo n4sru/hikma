@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".juqrafi5">
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="450dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+               android:text="Cimilada Soomaliya waa kuleeyl sanadka oo dhan taasi oo ah ilaahay mahadiis, waxaana Soomaliya maro Dhulbadhe ama Dhulbare ingriiskana lagu yiraahdo equator. Taasina waxaay keenta in cimilada dalkeena aad ay u kala duwaneen, waana kuleeyl sanadka oo dhan
+. Caadi ahaan kuleeylka wuxuu u dhaxeeya 40 ila 30 degree hadi laga saaro meelaha buro buuraha ah oo xiga bariga xeebta, melahaas ayaa laga dareema leerta qaboow ee badda ka timaada. Sida caasimada dalkeena ee Moqdisho cimilidadeeda waxaa ay u dhacaaysa 28 ila 32 oo koleey ah bilaha abriil. Qaas ahaan
+dalka waxaa uu dhaxeeya qiyaas ahaan 15 ila 30. Isbadalada dhinaca cimilada waxaa aad looga dareema waqooyiga Somaaliya, halkaas uu kuleeylku gaari karo
+ila 45 oo kuleeyl ah meesha ay dhul bureedkana u qabow badan u ka dhaco marka bilaha disember
+
+Beeraha iyo xayawaanka xiliyahooda waxaa jirta isbeddelada u dhexeeya afar xilli, kuwaas oo lagu qeexay isbedelka qaabka hawada. Laga bilaabo bisha Disembar ilaa Maarso waa Jilal, waana xiliga/waqtiga Abaaraha ugu adkaa sanadka u jiro.
+ Xilliga roobabka ugu muhiimsan waxaa lagu magacaabaa Gu, waxuuna soconayaa laga bilaabo Abriil ilaa Juun. Xilligaani/waqtigan waa xilli roobaad, robkaasi oo dib u baxsha daaqsinta beeraha,waqti gaaban gudaheeda ayaa waxaa laga dareema in cagaar badan kasoo baxo dhulkii qalalnaa.
+ Xilliga labaad ee abaaraha wuxuu socdaa laga bilaabo Julaay ilaa Sebtember waxaana loo yaqaan Xagaa.
+Waqtiga roobka ugu yarna waxaa lagu magacaabaa Dayr, waqtigaasna wuxuu socdaa Oktoobar ilaa Disembar."
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="18dp"
+        android:layout_marginLeft="278dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginStart="278dp"
+        android:layout_marginTop="14dp"
+        android:text="booga xiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+</android.support.constraint.ConstraintLayout>

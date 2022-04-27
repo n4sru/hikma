@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".gumeeystihii2">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text='Soomaliya waxaa la ogyahay in u yahay dalka kaliya oo Afrika ku yaalo oo ay dadka wax kasta iskaga mid yihiin, hadii ay noqoto diin,af iyo somaalinimo. Waxaa ay markaas kaliya macquul u ahaa gumeeystihii halka meel kaliya oo uu umari kariyey qaabka "divide and role" kala qaybi kadibna qabso in ay ahaayd dhinaca qabiilka. Qabilkuna uu nasiib daro noqdo wax ay dad dan naga laheen u ina aminsiiyo aana ku jirno dhibaatadaas ila iyo hada.'
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="41dp"
+        android:layout_marginTop="10dp"
+        android:text="Nasiib wanaag dal walba ilaahay waxaa u usoo saraa dad karti leh,Ilaahayna waxaa uuna siiyey dad ay tariiqda Somaaliya ila iyo hadda ay Xusto. dadkaas ay kamid ahayeen Ahmed Gurey Sayid abdille Xassan Xaawo Taako iyo Dhalanyaradii S.Y.L aan iyagana hadda tariidooda aan si galeeyno. Hadii aan ka bilaawno Ahmed Gurey, wuxuu ahaa nin markasta difaaci jiray xuduudaheena kana ilaalin jiray dalkeena in ay soo faragashtaan wadamada shisheeye. Si walbo oo waqtigiisa uu noola aynan aheeyn markii Yurub ay nagu soo duleeysa barigaas waxaa dalkeena markasta ka difaaci jirnay Boqorooyadi Xabashida. Dagaalkiisa waxaa ay u badnayeen kuwii uu dalkeena ooga difaaci jiray gumeeystihii amxaarada. Waxaa jirtay jab badan uu gaarsiyey gumeeystaha, waxaana la sheegaya in uu oromo badan uu diinta muslimka soo galiyey."
+        app:layout_constraintBottom_toTopOf="@+id/button26"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+    <Button
+        android:id="@+id/button26"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="18dp"
+        android:layout_marginLeft="278dp"
+        android:layout_marginStart="278dp"
+        android:layout_marginTop="41dp"
+        android:text="Booga Xiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView10" />
+</android.support.constraint.ConstraintLayout>

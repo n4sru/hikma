@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dagalkiisomgalb">
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.Material.Light.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="432dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:scrollbarStyle="insideOverlay"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11"
+        tools:ignore="NewApi">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/textViewchp2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="
+    Dagaalkii xoraynta Soomaali Galbeed waxa uu ahaa dagaal dhexmaray Soomaaliya oo ay maamuleeysay dowladii kacaanka oo uu madaxweeynaha ka ahaa Maxamed Siad Barre iyo Itoobiya. Kaasoo u jeedada dagaalku u bilaabmay ay ahayd, khilaaf kataagnaa gobolka soomaalida ee Itoobiya amaba Ogaden ee Soomaalida u taqaan Soomaali Galbeed. kadib markii ay fashilmeen dhamaan wada hadaladii siyaasadeed ee ku saabsanaa arinta gobolka Ogaden ayaa ciidamada Soomaaliya waxa ay weerar ku qaadeen wadanka Itoobiya. Todobaadkii ugu horeeyayba waxa ciidamada Soomaaliya u suurto gashay in ay gacanta ku dhigaan badhtamaha iyo koonfurta gobolka Soomaali Galbeed.
+    Intii dagaalku socday waxa ay ciidamada Soomaaliya marba marka ka danbaysa kasoo hooynayeen guulo aad u balaaran waxa ay ciidamada Soomaaliya daba socdeen oo dabada kaga jireen ciidamada itoobiya ilaa ay la gaareen goobta looyaqaano Sidamo.
+    Markii la gaadhay Sibtembar sanadkii 1977 ciidamada Soomaaliya waxa ay gacanta ku dhigeen dhamaan gobolka Galbeed waxa kale oo ay qabsadeen goobo iyo magaalooyin muhima oo kabaxsan gobolka.
+    Kadib markii ciidamada soomaaliya ay go'doon galiyeen magaalda Harar waxa dagaalka soogalay oo itoobiya isisoo garabtaagay wadankii la odhan jiray Midowga Sofiyet.
+    Sofiyeedku waxa uu taakulo dhanwalba leh siiyay ciidamada iyo dawlada Itoobiya, waxa kale oo uu sofiyeedku ugu deeqay itoobiya inkabadan 18,000 oo askari oo kayimi wadanka kuuba, taaso oo keentaya in ciidamadii Soomaaliya dib loosoo jabiyo laguna qasbo in ay kabaxaan gobolka ogaden.
+    Ciidankii Xooga dalka: 35,000. wuxuuna kala ahaa:
+    23 guuto oo infantari ah.
+    9 guuto oo Taangiyo ah.
+    9 guuto oo Madaafiic ah
+    4 guuto oo ciidamada cirka ah.
+    Saraakiishii Ciidamada Xooga dalka Soomaaliya Waxaay ahayeen sidan.
+    Taliyaha guud ee ciidanka Xooga dalka: General Maxamed siyaad barre Abaan duulaha Ciidamada xooga dalka Soomaaliya:
+    Generaal cumar xaaji Masaala.
+    Xeeladaha iyo qorshaynta ciidanka:
+    Generaal Mohamed Cali Samatar.
+    Taliyaha Ciidamda cirka:
+    General Cali Mataan Xaashi.
+    Meelaha ay daciifka ka ahayd Somalia.
+    Ciidamda soomaalidu aad ayay uga yaraayeen ciidamada is bahaysigii kasoo horjeeday. halka askari ee soomaaliga ah waxa kusoo beegmayay 12.5 askari oo xabashi ah.
+    Midowgii soviet-ka oo mudo dheer xuluufo la ahaa somalia, soona tababaray ciidamada xooga dalka iyo saraakiisheenaba, markan wuu inagaso horjeedaa, wuxuuna yaqaanaa dhamaan xeeladaha dagaal iyo meelaha aynu ka jilicsannahayba.
+    sidoo kale waxa dhib ahaa hagaajinta iyo spare u helida hubka iyo qalabka soomaalidu wadatay maadaama ruushkii sameeyeyba aynu is hayno. qoriga rasaastiisu go'do iyo wixii xumaadaba halkaas ayaa lagaga tagayaa loomana helayo spare.
+    Dagaalkan somalia cid kula socotay ama gaashaan buur la ahayd ma jirin. Maraykanka oo aynu markaaas islahayn xuluufo ka dhigtana madaxweynahoodii xiligaas ayaa diiday oo yidhi waxay nala tahay inaysan somalia xaq u lahayn inay weerarto Ethiopia.
+    dowladihii kale ee jeclaa inay somalia garab istaagaana waxay ka cabsanayeen Maraykan ama Ruush, sidaas daraadeed waxay go'aansadeen inay iska aamusaan.
+
+    Dagaalkaan wuxuu ahaa mid dhib Somalia iyo dowladii barigaas kasoo gaadhay sii waalba ay guul weeyn ay u noqon kareeysey hadii laagu soo biirin lahaa Somali galbeed somalida walaleeheeda kale ah, tana waxaa ay tuseeysay sida ay ooga go'oneed dadkii hore somaliweeyn in ay rumoowdo. Lakiinse waxaa ay fuduudeeysay in qandalaas siyasadeed iyo jabhado ay dalka ku so galaan.
+"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button34"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="268dp"
+        android:layout_marginStart="268dp"
+        android:text="Booga Xigga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

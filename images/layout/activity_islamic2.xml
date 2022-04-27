@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".islamic2">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="93dp"
+        android:layout_marginBottom="5dp"
+        android:text="Qarnigii Dahabiga Islamka"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/holo_blue_dark"
+        android:typeface="normal"
+        app:fontFamily="serif"
+        app:layout_constraintBottom_toTopOf="@+id/scrollViewchp2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="371dp"
+        android:layout_height="390dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.669">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Qarnigii daahibiga ee Islaamka muusan aheeyn waqti ay dadka muslimka ah ay haysteen dahab badan ee waxa ay haaysteen wax ka fiican hadii si kale loo dhigo. Qarnigan wuxuu biloowgiisa ahaa markii ay xukunka heysteen khilaafadiia Abassiyah, waqtigaas oo ay kasoo wareegatay qiyaas ahaan boqol sano waqtigii oo nabigeena (scw) oo noola. Waxaa loo xasuusta waqtigan sababto ah waxaay ahaayd waqti ay muslimka uso jeedsedeen raadinta cilmiga ayaaga oo isticmaalayo quraanka kariimka iyo xadiista nabigeena (scw). Waxaana dhab ah in ay meel sare ay ka gareen raadinta cilmiga ayna aduunka kusoo dareen fikrado iyo qalab casri ah oo aduunka horey loogu arkin. Waxaay sido kale meel sare ka gareen madooyinka xisaabta sayniska physiksa ayagaana aduunka dhan kaga horeeyey dhinaca cilmigaas. Waxaay keneen daawiyiin cusub waxaa kale ay ku dadaali jireen sida ay dadka dhan ay cilmigooda kor oogu qaadan si ay iskooda wax iskugu taraan ayna ka faaideystaan diinta Islaamka. Waxaa looga imaan jiray aduunka oo dhan si wax ooga bartaan Baqdaad oo Iraq ku taalo. Sabaabto ah meshaasi waxaa jirtay meel ay ka fureen Khilaafadi barigaas jirtay. Meshaas oo lagu magacaabi jiray Guriga Aqoonta, ama af carabiga lagu dhaho Baytul Hikma. Meshaas oo ay iskugu imaan jireen dad badan oo taqasuus ku ah madooyin kala duwan xagaas ayaay markaas isku kala dhafsaan jireen aqoon.
+
+Waxyaabaha lagu xasuusto qarnigan waxaa kamid ah naqshada/qaarada aduunka oo oogu horeeysey oona loo sameeyey qaab la fahmi karo in barigaas la sameeyey uuna sameeyey juqrafihi lagu magacaabi jiray Abu Cabdullah Maxamed Al Idrisi. Asaaga oo sameeyey qaarada Masar ila Yurub iyo qeeyb kamid ah geeska Afrika.
+
+Ibn Sina oo asagana ahaa nin dhaqtar iyo taqasuuse dhinaca dayax gacmeedka, ayaa asagana lagu xasuustaa buuga oo qooray oo ila maantadan la isticmaalo. Buugas ayaa ku sabsanaa cudurada iyo sida loo daweeyn karo, asaga oo markaas fahan badan ka lahaa qaabka cuduradaas ay u sameeynayaan jirka bini adaanka iyo qaabka looga hortago loona daaweeyo.
+
+Abu Bakr Mohammad-e Zakariā-ye Rāzi Waxaa u ahaa dhaqtar iyo kamistri. Waxaa uu asagana qabtay waxyaalo aad loo xasuusto ila maanta dhinaca cilmigi caafimaadka iyo kimistriga. Waxaa kale jirto in uu ahaa ninkii oogu horeeyey oo kala saaro cudurada kala ah jadeecada iyo cudurka furuqa. Wuxuu kaloo helay kiimikada loo yaqaano parafin iyo kuwo kale oo badan.
+
+Waqtigan waxaay ahaayd waqti dadka ay si fiican ay ku nooleyeen oo dhaqatiirnimada ay ku hormarsanayeen dhulalka muslimka ah. Isbitaalada waxa ay furnayeen habeen iyo maalin faqiir iyo taajirna isku si ayaa loogu adeegi jiray marka ay timaado dhinaca caafimaadka. Waxaaso kale jiray in ay ku yaaleen jamacadaha aduunka oogu horeeyey dhulaalka Islaamka sida Masjidka Kairuan oo ku yaalo Tunisia.
+
+Waxaan sido kale jadwalada kale oo soo socda ku baran doona nimankaan barigaa noolan jiray iyo sido kale waxyaalaha ay soo qabtaan ayna aduunka ku soo dareen iyo faaidooyinka ay layaheen fikrahaooda hormarinta ahaa. "
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton9"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="74dp"
+        android:layout_height="35dp"
+        android:layout_marginEnd="180dp"
+        android:layout_marginRight="180dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton12"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/bck" />
+
+    <ImageButton
+        android:id="@+id/imageButton12"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="74dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageButton9"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/nxt" />
+
+</android.support.constraint.ConstraintLayout>

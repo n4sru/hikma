@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".juqrafi">
+
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="359dp"
+        android:layout_height="450dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.312"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent">
+
+            android:orientation="vertical" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Dalka Soomaaliya waxa uu ku yaalaa geeska Africa wuxuuna ku fadhiyaa dhul baaxadiisu dhantahay 635.541km2, waxana uu xuduud la wadaagaa Bari waxaa ka xiga Badweynta hindiya, waqooyina waxaa ka xiga Jabuuti, Galbeedna dalka Itoobiya, halka koonfur galbeedna uu ka xigo dalka Kenya.
+Dalka Soomaaliya waxa uu yahay dalka labaad ee ugu xeebta dheer qaaradda Africa wuxuuna leeyahay xeeb dhirirkeedu tahay 3333km.
+Tirada dadka Soomaaliyeed waxaa lagu qiyaasaa 10,000,000 oo qof.
+60% Soomaalidu waa dad reer baadiya ah , 20% waa dad reer magaal ah, 15% waa dad beeralay ah iyo  5% oo ah dad Kaluumayato ah.
+khubarada ka faaloota taariikhda dalka Soomaaliya waxa ay sheegeen in ereyga Soomaaliya uu ka taaganyahay labo eray oo la’isku geeyay, kuwaasi oo kala ah ( Soo-Maal), iyadoo eraga Soo macnihiisa loola jeedo Soco, halka ereyga Maal uu macnihiisu ka soo jeedo Lis.
+Marka labadaasi eray la’isku daro waxaa uu noqonayaa (Maal Saca).
+Khubarada qaarkood waxa ay sheegaan in magaca Soomaali uu asal ahaan ka soo jeedo ereyga carabiga ee ah (Duu-maa) oo fasir ahaan la macna ah Shacab xoolo badan leh.
+Sooyaalka taariikhda qadiimiga ah waxaa iyadana laga helayaa macno kale iyadoo khubaraduna ku doodayaan in ereygaasi uu ka yimid Samaala  oo micnihiisu yahay ninkii waranka Dheeraa.
+Samaala ayaa la sheegaa in uu ahaa ab iyo waziirkii ay ka soo farcanmeen dadka Soomaaliyeed (Aw-Samaale)."
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button40"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginLeft="284dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginStart="284dp"
+        android:layout_marginTop="10dp"
+        android:text="Booga xiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2" />
+
+
+</android.support.constraint.ConstraintLayout>

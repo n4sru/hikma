@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".histprt5">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="72dp"
+        android:layout_marginBottom="5dp"
+        android:text="Dhul mareenki Ibn Baduuda"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="30sp"
+        android:typeface="normal"
+        app:fontFamily="serif"
+        app:layout_constraintBottom_toTopOf="@+id/scrollViewchp2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="371dp"
+        android:layout_height="387dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.619">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Dhul mareenkii Ibnu Baduudda oo caan ku ahaa ku dawaafidda dhulal fara badan oo dunida ah ayaa markii uu soo gaaray Muqdisho tilmaamo ka bixiyey dadkii xilligaas ku noolaa isagoo ku daray Kitaab uu qoray oo la yiraahdo Tuxfatu Al-nadaar Fii Qaraa?ibi Al-Amsaar, kaasoo ka sheekeynayey cajaa?ibta magaalooyinkii dunida ee xilligaas uu maray.
+Tilmaamihii uu ka bixiyey dadkii Muqdisho xilligaasi ku noolaa ayaa waxaa ka mid ahaa in dadkaasi ahaayeen dad firfircoon oo sameeya dharka una iibgeeya dalal Masar ka mid tahay, isla markaana ahaa dad hodon ku ahaa Xoolaha sida Geella oo maalin ay gowracan jiray ilaa 200 oo Geel ah, iyagoo sidoo kalana haystay Ari fara badan.
+Wuxuu tilmaamay Ibnu Baduudda in dadkii ku noolaa xilligaas Muqdisho ay ahaayeen dad isla weyn, maadaama ay hodon ahaayeen, isagoo tilmaamay in caadooyinkooda ay ka mid ahayd in marka Markab ku soo xirto Dekaddooda intey Doomo qaataan ka soo dajiyaan Ganacsatada cusub ee la socota si ay gurigooda u geeyaan ula saaxiibaana.
+
+Wuxuu tilmaamay Ibnu Baduudda in dadkii ku noolaa xilligaas Muqdisho ay ahaayeen dad isla weyn, maadaama ay hodon ahaayeen, isagoo tilmaamay in caadooyinkooda ay ka mid ahayd in marka Markab ku soo xirto Dekaddooda intey Doomo qaataan ka soo dajiyaan Ganacsatada cusub ee la socota si ay gurigooda u geeyaan ula saaxiibaana,
+Wuxuu sheegay Ibnu Badduuda in Markabkii uu saarnaa goortii uu ku xirtay Dekadda Muqdisho ay soo koreen dhalinyaro, isla markaana saaxiibadiisa qaarkood dhalinyaradii u sheegeen in ninkani uusan ahayn Ganacsade, balse uu yahay nin Faqiih ah oo yaqaana fiqhiga islaamka.
+Dhalinyaradii ayaa ku qeyliyey markii ay ogaadeen in Ibnu Badduuda uusan ganacsade ahayn ?Kani wuxuu u soo degay qaaliga?, waxaana durbadii soo abaaray nin ka socday qaaliga Muqdisho oo isaguna Markabka ka eeg eegayey cid wal oo howshooda oo kale u socota.
+Ibnu Badduuda wuxuu sheegay in loo geeyey qaaligii isla markaana ay salaanta islaamka iska qaadeen, dabadeedna uu qaaligii u sheegay in uu u geynayo Suldaankii xilligaa ka talin jiray Muqdisho, iyadoo caadaduna ahayd in marka nin Faqiih ah uu soo dago la tusiyo Suldaanka, durbadiina waxaa Ibnu Badduuda la horgeeyey Suldaankaas oo la oron jiray Abuubakar Bin Sheekh Cumar oo asal ahaan la sheegay in uu ka soo jeedo dadka barbariyiinta la yiraahdo.
+Wuxuu sheegay Ibnu Badduuda in Suldaankaasi uu ku hadlayey afka reer Muqdisho inkastoo haddana uu yaqaanay afka Carabiga.
+Ibnu Badduuda markii uu ka sheekeynayey Suldaankaasi wuxuu tilmaamay in caadooyinkiisa ay ka mid ahayd in marka magaalada xeebaheeda uu soo gaaro Markab uu u diro rag u qaabilsan Arrimaha Badaha iyagoo Markabkaasi weydiinaya dhinaca uu ka yimid, dadka la socda, waxyaabaha uu wado, in Ganacsato la socoto iyo in kale.
+Raga u qaabilsan Arrimaha Badaha marka ay la kulmaan dadka wata Maraakiibta ayey waxay u soo gudbin jireen Suldaanka, wuxuuna agtiisa dajin jiray ciddii muteysata in ay agtiisa degto sida Culimada iyo Ganacsatada.
+Ibnu Badduuda wuxuu tilmaamay in Qaaligii Muqdisho ee xilligaas loona aqoon jiray Ibnul Burhaan Al-Misri in uu ula kacay dhinaca Daartii uu daganaa Suldaanku, isla markaana uu warbixin ka siiyey safarkiisa, isagoo tilmaamay in Suldaankaasi soo dhaweeyey.
+Ibnu Badduudda wuxuu sheegay in dadkii xilligaas ku noolaa Muqdisho ay ahaayeen dad si fiican u cuna raashinka qiimihiisu sarreeyo iyo Qudradaha kala duwan, iyadoo halkii qof ee ka mid ah uu cuni jiray inta ay cunaan koox ka mid ah dadkii deganaa halkii uu ka yimid Ibnu Badduuda.
+Waxyaabihii uu Ibnu Badduuda ka sheegay dadkii xilligaas ku noolaa Muqdisho ayaa waxaa ka mid ahaa in dadkaasi ahaayeen dad aad u cayilan, maadaama ay dhaqaalo ku filan haysteen iyagoo si fiican u cuni jiray, Kalluunka, Hilibka Digaaga, Caanaha iyo Qudradaha kala geddisan.
+Wuxuu sheegay Ibnu Badduuda in intii uu ku sugnaa Muqdisho maalin walba saddex jeer raashin la siin jiray, iyadoo markii uu saddex maalmood ku sugnaa Muqdisho."
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton18"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="74dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageButton9"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewchp2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@mipmap/nxt" />
+
+</android.support.constraint.ConstraintLayout>

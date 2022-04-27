@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".islamic1">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="72dp"
+        android:layout_marginBottom="5dp"
+        android:text="Diinta iyo Tariikhaha Islamka"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="30sp"
+        android:typeface="normal"
+        app:fontFamily="serif"
+        app:layout_constraintBottom_toTopOf="@+id/scrollViewchp2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+    <ScrollView
+        android:id="@+id/scrollViewchp2"
+        style="@android:style/Widget.DeviceDefault.ScrollView"
+        android:layout_width="371dp"
+        android:layout_height="387dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.619">
+
+        <LinearLayout
+            android:layout_width="355dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Waxaan jadwalkan ku bilaabeeyna in aan waxyar aan ooga bilaabno subanaha nabigeena naxariis iyo janno korkiisa haka ahaado ee Maxamed scw.
+Nabigeena sadaxdiisa magac waa Muxammad, bin Cabdullaahi, bin Cabdul Mudhalib, bin Haashim
+Waxaa Nabiigeena la oran jiray ama lagu naaneesi jiray Runlowga la aaminay (Sadiiqul amiin)
+waxaa uuna ku dhashay magaalada Makka, oo la oran jiray Xijaas, ee dhulka Carabiya (maanta loo yaqaano dalka Sacuudi Carabiya markey taariikhdu ahayd qiyaastii 570 taariikhda Carabta loo yaqaano “Sanadkii Maroodiga”. Dad badan oo aan muslim aheyn oo taariikhaha dunida wax ka baadha waxey isku raaceen inuu Nabi Maxamed NNKH uu ahaa qofkii dunida uguu wanaagsanaa. Markey taariikhdu ahayd sanadkii 570kii ayaa Nebigu ku dhashay magaalada Makkah ee deegaanka Xijaas ee dhulka Carabiya. Nebi Muxamed wuxuu ka dhashay beesha reer Haashim ee ka tirsan qabiilka Quraysh. Waalidkii waxay dhinteen asaga oo aad u yar, waxaana soo koriyay awoowgii oo wakhti yar ka dib dhintey. Markaasi masuuliyada nebiga waxaa la wareegay adeerkiis Abu Daalib oo gurigiisa uu ku soo barbaaray Muxamed.  Nabigeena wuxuu noo ahaa hogaamiye, macalin, tilmaame, wax-u-sheege, caalim, xaakim iyo madaxa kowaad ee asxaabta (dadkii Nebiga rumeeyay), intii wakhtigaasi noolayd, iyo dhamaan aadamaha ilaa laga gaadhayo saacada qiyaame.
+
+Nabiga waqtigiisa ka hor inta aynan jirin diinta Islaamka, dadka waxaay ahaan jireen dad cawaan ah oo caabudi jiray salamaan. Lakiin kadib marka ay soo garteey diinta islaamka dadka waxaa ay kala barteen khaladka iyo saxda, waxeeyne usoo jeedsadeen cilmi raadin iyo cibaado Alle ayaaka oo noloshooda u faaideeynayo tooda aduunyo iyo aqiro. Barigaas waxaa jiray in dadka ay u noolayeen sida ay doonayaan. Waxaana dadka lagu dulmin jiray in ay ka dhasheen qabiilo yar yar, qarkooda laga xooga badnaa ayagana la adoonsan jiray sida asxaabigii bilaal Allaho yarxam R.C. Bilaal oo noqday saxaabigii ugu horeeyay ee kacbada ka eedaamay waxa uuna ahaa nin xabashiya ama (Habeshi) waxa u ahaa qof wanaagsan oo dabeecad fiican leh nebiguna calayhi salatu wa salaam uu jeclaa. Sidoo kale rasuulkeeni wuxuu xadiis saxiix ah ku yiri ummaddu inaanu kal fadilneyn, oo ay isku mid yihiin, carab iyo cajab, caddaan iyo madow, oo dadkoo dhan ay ka yimaadeen Aadan, aadanna laga abuuray dhoobo.  Waxaa uu nabigeena inooga tagay dhaxaal diinta Islaamka ah, waana dhaxal aad iyo aad qaali inoo ah. Waxaay na bartay sida aan iskaga ilaalin leheeyn waxkasta oo xumaan ino geeynayo hadii ay adoonyada noqoto amaba akhiro. Anaga oo talada saraneeyna Allah subxaana watacaala.
+
+Dinta Islaamka waxaa ay naga badashay dhaqan xumi, cawaanimo iyo waxyaalo xun oo aad u farabadan. Waxaana nasiib ku leenahay in diintan ay ina soo garteen aana wali haaysano. Waxeey tahay in aan ka faaideysano nimcoohiyinka diinteena Islaamk.
+
+Kadib geeridii subanaheena Maxamed SCW. Waxaa la wareegey hogaanka diinta Islamka khilafada la oran jiray khilafadii Rashida ama Al khilafa ar rashida. Waxaana hogaankooda kala haayey Abu Bakr as sidiq, Cumar Ibn Khatab, Cosman Ibn Affan iyo Cali Ibn Abu Talip. Abu bakr oo ahaa kan oogu horeeyey khilaafada ayaa asagana ahaa ku xigeenka rasuulka Khalifa-tul-Rassool meesha ay Cumar iyo Cusman ka ahayeen amiir mumin. "
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton13"
+        style="@android:style/Widget.ImageButton"
+        android:layout_width="74dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="6dp"
+        android:layout_marginTop="393dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@mipmap/nxt" />
+
+
+</android.support.constraint.ConstraintLayout>
